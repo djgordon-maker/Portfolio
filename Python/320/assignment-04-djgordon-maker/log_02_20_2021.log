@@ -1,0 +1,24 @@
+2021-02-20 08:39:02,253 main.py:28  INFO Creating a new UserCollection
+2021-02-20 08:39:02,341 users.py:20  INFO New UserCollection instance created
+2021-02-20 08:39:02,341 main.py:37  INFO Createing a new UserStatusCollection
+2021-02-20 08:39:02,407 user_status.py:21  INFO New UserStatusCollection instance created
+2021-02-20 08:39:02,408 main.py:63  INFO Loading users from accounts.csv
+2021-02-20 08:39:02,410 main.py:86  INFO Saving collection in database
+2021-02-20 08:39:02,464 main.py:117 INFO Saving statuses to status_updates.csv
+2021-02-20 08:39:02,658 main.py:140 INFO Saving collection in database
+2021-02-20 08:40:58,863 main.py:264 INFO Searching for matching UserStatuses
+2021-02-20 08:41:12,572 main.py:264 INFO Searching for matching UserStatuses
+2021-02-20 09:09:31,997 main.py:28  INFO Creating a new UserCollection
+2021-02-20 09:09:32,064 users.py:20  INFO New UserCollection instance created
+2021-02-20 09:09:32,064 main.py:37  INFO Createing a new UserStatusCollection
+2021-02-20 09:09:32,131 user_status.py:21  INFO New UserStatusCollection instance created
+2021-02-20 09:09:40,501 main.py:60  ERROR User files must be in csv format
+2021-02-20 09:10:12,891 main.py:159 INFO Adding a new User
+2021-02-20 09:10:13,297 users.py:38  INFO User Dan sucessfully added
+2021-02-20 09:10:36,172 main.py:216 INFO Adding an UserStatus
+2021-02-20 09:10:36,219 user_status.py:38  INFO Status Dan_01 added to database
+2021-02-20 09:37:49,461 main.py:216 INFO Adding an UserStatus
+2021-02-20 09:37:50,066 user_status.py:38  INFO Status Dan_02 added to database
+2021-02-20 09:37:59,139 main.py:264 INFO Searching for matching UserStatuses
+2021-02-20 09:38:09,983 main.py:264 INFO Searching for matching UserStatuses
+2021-02-20 09:38:14,502 main.py:264 INFO Searching for matching UserStatuses

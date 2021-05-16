@@ -1,0 +1,50 @@
+2021-02-06 12:38:16,559 main.py:27  INFO Creating a new UserCollection
+2021-02-06 12:38:16,559 users.py:29  INFO New UserCollection instance created
+2021-02-06 12:38:16,559 main.py:36  INFO Createing a new UserStatusCollection
+2021-02-06 12:38:16,559 user_status.py:28  INFO New UserStatusCollection instance created
+2021-02-06 12:38:16,559 main.py:54  DEBUG Entering load_users(accounts.csv, <users.UserCollection object at 0x0000014E95B5AA08>)
+2021-02-06 12:38:16,560 main.py:75  DEBUG load_users() returns true
+2021-02-06 12:38:16,560 users.py:19  INFO User dave03 created
+2021-02-06 12:38:16,560 users.py:41  INFO User dave03 sucessfully added
+2021-02-06 12:38:16,560 users.py:37  ERROR User dave03 already exists
+2021-02-06 12:38:16,560 users.py:54  INFO User dave03 sucessfully modified
+2021-02-06 12:38:16,561 users.py:49  ERROR User dave02 not found in database
+2021-02-06 12:38:16,561 users.py:75  INFO User dave03 sucessfully found
+2021-02-06 12:38:16,561 users.py:73  ERROR User dave02 not found in database
+2021-02-06 12:38:16,561 users.py:19  INFO User None created
+2021-02-06 12:38:16,561 users.py:65  INFO User dave03 sucessfully deleted
+2021-02-06 12:38:16,561 users.py:62  ERROR User dave03 not found in database
+2021-02-06 12:38:16,562 user_status.py:18  INFO Status dave03_01 created
+2021-02-06 12:38:16,562 user_status.py:40  INFO Status dave03_01 added to database
+2021-02-06 12:38:16,562 user_status.py:36  ERROR Status dave03_01 already in database
+2021-02-06 12:38:16,562 user_status.py:53  INFO Status dave03_01 sucessfully modified
+2021-02-06 12:38:16,562 user_status.py:49  ERROR Status dave03_02 not found database
+2021-02-06 12:38:16,562 user_status.py:76  INFO Status dave03_01 sucessfully found
+2021-02-06 12:38:16,562 user_status.py:74  ERROR Status dave03 not found database
+2021-02-06 12:38:16,562 user_status.py:18  INFO Status None created
+2021-02-06 12:38:16,562 user_status.py:65  INFO Status dave03_01 sucessfully deleted
+2021-02-06 12:38:16,562 user_status.py:62  ERROR Status dave03_01 not found database
+2021-02-06 12:38:48,856 main.py:27  INFO Creating a new UserCollection
+2021-02-06 12:38:48,857 users.py:29  INFO New UserCollection instance created
+2021-02-06 12:38:48,857 main.py:36  INFO Createing a new UserStatusCollection
+2021-02-06 12:38:48,857 user_status.py:28  INFO New UserStatusCollection instance created
+2021-02-06 12:38:48,857 users.py:19  INFO User dave03 created
+2021-02-06 12:38:48,857 users.py:41  INFO User dave03 sucessfully added
+2021-02-06 12:38:48,857 users.py:37  ERROR User dave03 already exists
+2021-02-06 12:38:48,858 users.py:54  INFO User dave03 sucessfully modified
+2021-02-06 12:38:48,858 users.py:49  ERROR User dave02 not found in database
+2021-02-06 12:38:48,858 users.py:75  INFO User dave03 sucessfully found
+2021-02-06 12:38:48,858 users.py:73  ERROR User dave02 not found in database
+2021-02-06 12:38:48,858 users.py:19  INFO User None created
+2021-02-06 12:38:48,858 users.py:65  INFO User dave03 sucessfully deleted
+2021-02-06 12:38:48,858 users.py:62  ERROR User dave03 not found in database
+2021-02-06 12:38:48,859 user_status.py:18  INFO Status dave03_01 created
+2021-02-06 12:38:48,859 user_status.py:40  INFO Status dave03_01 added to database
+2021-02-06 12:38:48,859 user_status.py:36  ERROR Status dave03_01 already in database
+2021-02-06 12:38:48,859 user_status.py:53  INFO Status dave03_01 sucessfully modified
+2021-02-06 12:38:48,859 user_status.py:49  ERROR Status dave03_02 not found database
+2021-02-06 12:38:48,859 user_status.py:76  INFO Status dave03_01 sucessfully found
+2021-02-06 12:38:48,859 user_status.py:74  ERROR Status dave03 not found database
+2021-02-06 12:38:48,859 user_status.py:18  INFO Status None created
+2021-02-06 12:38:48,859 user_status.py:65  INFO Status dave03_01 sucessfully deleted
+2021-02-06 12:38:48,859 user_status.py:62  ERROR Status dave03_01 not found database

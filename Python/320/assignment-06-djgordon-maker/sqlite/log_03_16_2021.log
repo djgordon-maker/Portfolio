@@ -1,0 +1,44 @@
+2021-03-16 17:55:58,162 main.py:28  INFO Creating a new UserCollection
+2021-03-16 17:55:58,237 users.py:20  INFO New UserCollection instance created
+2021-03-16 17:55:58,237 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-16 17:55:58,305 user_status.py:21  INFO New UserStatusCollection instance created
+2021-03-16 17:57:54,095 main.py:28  INFO Creating a new UserCollection
+2021-03-16 17:57:54,164 users.py:20  INFO New UserCollection instance created
+2021-03-16 17:57:54,164 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-16 17:57:54,231 user_status.py:21  INFO New UserStatusCollection instance created
+2021-03-16 17:57:54,238 main.py:63  INFO Loading users from accounts.csv
+2021-03-16 17:57:54,242 main.py:86  INFO Saving collection in database
+2021-03-16 17:57:54,360 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-16 17:57:54,717 main.py:140 INFO Saving collection in database
+2021-03-16 17:58:03,338 main.py:159 INFO Adding a new User
+2021-03-16 17:58:03,366 users.py:38  INFO User dave03 sucessfully added
+2021-03-16 17:58:46,444 main.py:28  INFO Creating a new UserCollection
+2021-03-16 17:58:46,502 users.py:20  INFO New UserCollection instance created
+2021-03-16 17:58:46,502 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-16 17:58:46,570 user_status.py:21  INFO New UserStatusCollection instance created
+2021-03-16 17:58:46,570 main.py:63  INFO Loading users from accounts.csv
+2021-03-16 17:58:46,574 main.py:86  INFO Saving collection in database
+2021-03-16 17:58:46,639 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-16 17:58:46,977 main.py:140 INFO Saving collection in database
+2021-03-16 17:58:55,615 main.py:159 INFO Adding a new User
+2021-03-16 17:58:55,643 users.py:38  INFO User dave03 sucessfully added
+2021-03-16 17:58:55,643 main.py:216 INFO Adding an UserStatus
+2021-03-16 17:58:55,677 user_status.py:38  INFO Status dave03_01 added to database
+2021-03-16 17:58:55,677 main.py:171 INFO Updating an User
+2021-03-16 17:58:55,710 users.py:55  INFO User dave03 sucessfully modified
+2021-03-16 17:58:55,710 main.py:228 INFO Updating an UserStatus
+2021-03-16 17:58:55,711 user_status.py:49  ERROR Status dave03 not found database
+2021-03-16 17:58:55,711 main.py:198 INFO Searching for an User
+2021-03-16 17:58:55,711 users.py:80  INFO User dave03 sucessfully found
+2021-03-16 17:58:55,712 main.py:253 INFO Searching for an UserStatus
+2021-03-16 17:58:55,712 user_status.py:82  INFO Status dave03_01 sucessfully found
+2021-03-16 17:58:55,712 main.py:240 INFO Deleting an UserStatus
+2021-03-16 17:58:55,744 user_status.py:69  INFO Status dave03_01 sucessfully deleted
+2021-03-16 17:58:55,744 main.py:184 INFO Deleting an User
+2021-03-16 17:58:55,778 users.py:68  INFO User dave03 sucessfully deleted
+2021-03-16 17:58:55,807 main.py:28  INFO Creating a new UserCollection
+2021-03-16 17:58:55,808 users.py:20  INFO New UserCollection instance created
+2021-03-16 17:58:55,809 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-16 17:58:55,810 user_status.py:21  INFO New UserStatusCollection instance created
+2021-03-16 17:58:55,811 main.py:63  INFO Loading users from accounts.csv
+2021-03-16 17:58:55,844 main.py:86  INFO Saving collection in database

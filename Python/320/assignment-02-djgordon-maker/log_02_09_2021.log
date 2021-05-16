@@ -1,0 +1,68 @@
+2021-02-09 17:20:42,832 main.py:27  INFO Creating a new UserCollection
+2021-02-09 17:20:42,832 users.py:29  INFO New UserCollection instance created
+2021-02-09 17:20:42,832 main.py:36  INFO Createing a new UserStatusCollection
+2021-02-09 17:20:42,832 user_status.py:28  INFO New UserStatusCollection instance created
+2021-02-09 17:20:42,833 users.py:19  INFO User dave03 created
+2021-02-09 17:20:42,833 users.py:41  INFO User dave03 sucessfully added
+2021-02-09 17:20:42,833 users.py:37  ERROR User dave03 already exists
+2021-02-09 17:20:42,833 users.py:54  INFO User dave03 sucessfully modified
+2021-02-09 17:20:42,833 users.py:49  ERROR User dave02 not found in database
+2021-02-09 17:20:42,833 users.py:75  INFO User dave03 sucessfully found
+2021-02-09 17:20:42,834 users.py:73  ERROR User dave02 not found in database
+2021-02-09 17:20:42,834 users.py:19  INFO User None created
+2021-02-09 17:20:42,834 users.py:65  INFO User dave03 sucessfully deleted
+2021-02-09 17:20:42,834 users.py:62  ERROR User dave03 not found in database
+2021-02-09 17:20:42,834 user_status.py:18  INFO Status dave03_01 created
+2021-02-09 17:20:42,834 user_status.py:40  INFO Status dave03_01 added to database
+2021-02-09 17:20:42,835 user_status.py:36  ERROR Status dave03_01 already in database
+2021-02-09 17:20:42,835 user_status.py:53  INFO Status dave03_01 sucessfully modified
+2021-02-09 17:20:42,835 user_status.py:49  ERROR Status dave03_02 not found database
+2021-02-09 17:20:42,835 user_status.py:76  INFO Status dave03_01 sucessfully found
+2021-02-09 17:20:42,835 user_status.py:74  ERROR Status dave03 not found database
+2021-02-09 17:20:42,835 user_status.py:18  INFO Status None created
+2021-02-09 17:20:42,835 user_status.py:65  INFO Status dave03_01 sucessfully deleted
+2021-02-09 17:20:42,835 user_status.py:62  ERROR Status dave03_01 not found database
+2021-02-09 17:32:10,606 main.py:27  INFO Creating a new UserCollection
+2021-02-09 17:32:10,606 users.py:29  INFO New UserCollection instance created
+2021-02-09 17:32:10,606 main.py:36  INFO Createing a new UserStatusCollection
+2021-02-09 17:32:10,606 user_status.py:28  INFO New UserStatusCollection instance created
+2021-02-09 17:32:10,606 main.py:59  INFO Loading users from accounts.csv
+2021-02-09 17:32:10,607 main.py:180 INFO Adding a new User
+2021-02-09 17:32:10,607 users.py:19  INFO User dave03 created
+2021-02-09 17:32:10,607 users.py:41  INFO User dave03 sucessfully added
+2021-02-09 17:32:10,607 main.py:180 INFO Adding a new User
+2021-02-09 17:32:10,607 users.py:37  ERROR User dave03 already exists
+2021-02-09 17:32:10,607 main.py:192 INFO Updating an User
+2021-02-09 17:32:10,607 users.py:54  INFO User dave03 sucessfully modified
+2021-02-09 17:32:10,608 main.py:192 INFO Updating an User
+2021-02-09 17:32:10,608 users.py:49  ERROR User dave02 not found in database
+2021-02-09 17:32:10,608 main.py:219 INFO Searching for an User
+2021-02-09 17:32:10,608 users.py:75  INFO User dave03 sucessfully found
+2021-02-09 17:32:10,608 main.py:219 INFO Searching for an User
+2021-02-09 17:32:10,608 users.py:73  ERROR User dave02 not found in database
+2021-02-09 17:32:10,608 users.py:19  INFO User None created
+2021-02-09 17:32:10,608 main.py:205 INFO Deleting an User
+2021-02-09 17:32:10,608 users.py:65  INFO User dave03 sucessfully deleted
+2021-02-09 17:32:10,608 main.py:205 INFO Deleting an User
+2021-02-09 17:32:10,608 users.py:62  ERROR User dave03 not found in database
+2021-02-09 17:32:10,608 main.py:96  INFO Saving users to accounts.csv
+2021-02-09 17:32:10,609 main.py:124 INFO Saving statuses to status_updates.csv
+2021-02-09 17:32:10,609 main.py:237 INFO Adding an UserStatus
+2021-02-09 17:32:10,609 user_status.py:18  INFO Status dave03_01 created
+2021-02-09 17:32:10,609 user_status.py:40  INFO Status dave03_01 added to database
+2021-02-09 17:32:10,609 main.py:237 INFO Adding an UserStatus
+2021-02-09 17:32:10,609 user_status.py:36  ERROR Status dave03_01 already in database
+2021-02-09 17:32:10,609 main.py:249 INFO Updating an UserStatus
+2021-02-09 17:32:10,609 user_status.py:53  INFO Status dave03_01 sucessfully modified
+2021-02-09 17:32:10,609 main.py:249 INFO Updating an UserStatus
+2021-02-09 17:32:10,609 user_status.py:49  ERROR Status dave03_02 not found database
+2021-02-09 17:32:10,609 main.py:274 INFO Searching for an UserStatus
+2021-02-09 17:32:10,610 user_status.py:76  INFO Status dave03_01 sucessfully found
+2021-02-09 17:32:10,610 main.py:274 INFO Searching for an UserStatus
+2021-02-09 17:32:10,610 user_status.py:74  ERROR Status dave03 not found database
+2021-02-09 17:32:10,610 user_status.py:18  INFO Status None created
+2021-02-09 17:32:10,610 main.py:261 INFO Deleting an UserStatus
+2021-02-09 17:32:10,610 user_status.py:65  INFO Status dave03_01 sucessfully deleted
+2021-02-09 17:32:10,610 main.py:261 INFO Deleting an UserStatus
+2021-02-09 17:32:10,610 user_status.py:62  ERROR Status dave03_01 not found database
+2021-02-09 17:32:10,610 main.py:159 INFO Saving statuses to status_updates.csv
