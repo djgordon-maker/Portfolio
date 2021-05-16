@@ -1,0 +1,557 @@
+2021-03-01 17:10:46,984 main.py:28  INFO Creating a new UserCollection
+2021-03-01 17:10:46,986 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-01 17:10:46,989 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:10:46,989 main.py:86  INFO Saving collection in database
+2021-03-01 17:10:46,993 main.py:60  ERROR User files must be in csv format
+2021-03-01 17:10:47,005 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:10:47,005 main.py:73  ERROR Users need four parameters
+2021-03-01 17:10:47,006 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:10:47,006 main.py:73  ERROR Users need four parameters
+2021-03-01 17:10:47,006 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:10:47,006 main.py:73  ERROR Users need four parameters
+2021-03-01 17:10:47,007 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:10:47,007 main.py:73  ERROR Users need four parameters
+2021-03-01 17:10:47,007 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:10:47,007 main.py:73  ERROR Users need four parameters
+2021-03-01 17:10:47,009 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:10:47,009 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:10:47,010 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:10:47,010 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:10:47,010 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:10:47,010 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:10:47,010 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:10:47,010 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:10:47,014 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:10:47,015 main.py:140 INFO Saving collection in database
+2021-03-01 17:10:47,018 main.py:114 ERROR UserStatus files must be in csv format
+2021-03-01 17:10:47,020 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:10:47,020 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:10:47,020 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:10:47,021 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:10:47,021 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:10:47,021 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:10:47,021 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:10:47,021 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:10:47,021 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:10:47,022 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:10:47,024 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:10:47,024 main.py:132 ERROR UserStatus can not have empty fields
+2021-03-01 17:10:47,025 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:10:47,025 main.py:132 ERROR UserStatus can not have empty fields
+2021-03-01 17:10:47,025 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:10:47,025 main.py:132 ERROR UserStatus can not have empty fields
+2021-03-01 17:10:47,027 main.py:159 INFO Adding a new User
+2021-03-01 17:10:47,030 main.py:171 INFO Updating an User
+2021-03-01 17:10:47,032 main.py:184 INFO Deleting an User
+2021-03-01 17:10:47,034 main.py:198 INFO Searching for an User
+2021-03-01 17:10:47,036 main.py:198 INFO Searching for an User
+2021-03-01 17:10:47,038 main.py:216 INFO Adding an UserStatus
+2021-03-01 17:10:47,040 main.py:228 INFO Updating an UserStatus
+2021-03-01 17:10:47,041 main.py:240 INFO Deleting an UserStatus
+2021-03-01 17:10:47,044 main.py:253 INFO Searching for an UserStatus
+2021-03-01 17:10:47,047 main.py:253 INFO Searching for an UserStatus
+2021-03-01 17:10:47,049 main.py:264 INFO Searching for matching UserStatuses
+2021-03-01 17:10:47,051 main.py:273 INFO Searching for UserStatuses matching string
+2021-03-01 17:44:15,067 main.py:28  INFO Creating a new UserCollection
+2021-03-01 17:44:15,069 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-01 17:44:15,072 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:44:15,072 main.py:87  INFO Saving collection in database
+2021-03-01 17:44:15,144 main.py:60  ERROR User files must be in csv format
+2021-03-01 17:44:15,146 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:44:15,146 main.py:73  ERROR Users need four parameters
+2021-03-01 17:44:15,146 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:44:15,146 main.py:73  ERROR Users need four parameters
+2021-03-01 17:44:15,146 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:44:15,147 main.py:73  ERROR Users need four parameters
+2021-03-01 17:44:15,147 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:44:15,147 main.py:73  ERROR Users need four parameters
+2021-03-01 17:44:15,147 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:44:15,147 main.py:73  ERROR Users need four parameters
+2021-03-01 17:44:15,150 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:44:15,150 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:44:15,150 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:44:15,150 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:44:15,150 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:44:15,150 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:44:15,150 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:44:15,150 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:44:15,218 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:44:15,218 main.py:140 INFO Saving collection in database
+2021-03-01 17:44:15,220 main.py:114 ERROR UserStatus files must be in csv format
+2021-03-01 17:44:15,221 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:44:15,221 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:44:15,222 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:44:15,222 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:44:15,222 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:44:15,222 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:44:15,222 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:44:15,222 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:44:15,222 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:44:15,223 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:44:15,224 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:44:15,225 main.py:132 ERROR UserStatus can not have empty fields
+2021-03-01 17:44:15,225 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:44:15,225 main.py:132 ERROR UserStatus can not have empty fields
+2021-03-01 17:44:15,225 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:44:15,225 main.py:132 ERROR UserStatus can not have empty fields
+2021-03-01 17:44:15,227 main.py:159 INFO Adding a new User
+2021-03-01 17:44:15,229 main.py:171 INFO Updating an User
+2021-03-01 17:44:15,230 main.py:184 INFO Deleting an User
+2021-03-01 17:44:15,231 main.py:198 INFO Searching for an User
+2021-03-01 17:44:15,233 main.py:198 INFO Searching for an User
+2021-03-01 17:44:15,234 main.py:216 INFO Adding an UserStatus
+2021-03-01 17:44:15,235 main.py:228 INFO Updating an UserStatus
+2021-03-01 17:44:15,237 main.py:240 INFO Deleting an UserStatus
+2021-03-01 17:44:15,238 main.py:253 INFO Searching for an UserStatus
+2021-03-01 17:44:15,240 main.py:253 INFO Searching for an UserStatus
+2021-03-01 17:44:15,242 main.py:264 INFO Searching for matching UserStatuses
+2021-03-01 17:44:15,243 main.py:273 INFO Searching for UserStatuses matching string
+2021-03-01 17:47:27,388 main.py:28  INFO Creating a new UserCollection
+2021-03-01 17:47:27,389 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-01 17:47:27,391 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:47:27,391 main.py:87  INFO Saving collection in database
+2021-03-01 17:47:27,462 main.py:60  ERROR User files must be in csv format
+2021-03-01 17:47:27,464 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:47:27,464 main.py:73  ERROR Users need four parameters
+2021-03-01 17:47:27,464 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:47:27,464 main.py:73  ERROR Users need four parameters
+2021-03-01 17:47:27,465 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:47:27,465 main.py:73  ERROR Users need four parameters
+2021-03-01 17:47:27,465 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:47:27,465 main.py:73  ERROR Users need four parameters
+2021-03-01 17:47:27,465 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:47:27,465 main.py:73  ERROR Users need four parameters
+2021-03-01 17:47:27,467 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:47:27,467 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:47:27,467 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:47:27,467 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:47:27,467 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:47:27,467 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:47:27,467 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:47:27,468 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:47:27,537 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:47:27,537 main.py:140 INFO Saving collection in database
+2021-03-01 17:47:27,540 main.py:114 ERROR UserStatus files must be in csv format
+2021-03-01 17:47:27,541 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:47:27,542 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:47:27,542 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:47:27,542 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:47:27,542 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:47:27,542 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:47:27,542 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:47:27,542 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:47:27,543 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:47:27,543 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:47:27,544 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:47:27,544 main.py:132 ERROR UserStatus can not have empty fields
+2021-03-01 17:47:27,544 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:47:27,544 main.py:132 ERROR UserStatus can not have empty fields
+2021-03-01 17:47:27,545 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:47:27,545 main.py:132 ERROR UserStatus can not have empty fields
+2021-03-01 17:47:27,546 main.py:159 INFO Adding a new User
+2021-03-01 17:47:27,547 main.py:171 INFO Updating an User
+2021-03-01 17:47:27,549 main.py:184 INFO Deleting an User
+2021-03-01 17:47:27,550 main.py:198 INFO Searching for an User
+2021-03-01 17:47:27,551 main.py:198 INFO Searching for an User
+2021-03-01 17:47:27,553 main.py:216 INFO Adding an UserStatus
+2021-03-01 17:47:27,555 main.py:228 INFO Updating an UserStatus
+2021-03-01 17:47:27,558 main.py:240 INFO Deleting an UserStatus
+2021-03-01 17:47:27,559 main.py:253 INFO Searching for an UserStatus
+2021-03-01 17:47:27,561 main.py:253 INFO Searching for an UserStatus
+2021-03-01 17:47:27,562 main.py:264 INFO Searching for matching UserStatuses
+2021-03-01 17:47:27,563 main.py:273 INFO Searching for UserStatuses matching string
+2021-03-01 17:50:24,715 main.py:28  INFO Creating a new UserCollection
+2021-03-01 17:50:24,717 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-01 17:50:24,718 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:50:24,718 main.py:87  INFO Saving collection in database
+2021-03-01 17:50:24,721 main.py:60  ERROR User files must be in csv format
+2021-03-01 17:50:24,724 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:50:24,724 main.py:73  ERROR Users need four parameters
+2021-03-01 17:50:24,724 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:50:24,724 main.py:73  ERROR Users need four parameters
+2021-03-01 17:50:24,724 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:50:24,724 main.py:73  ERROR Users need four parameters
+2021-03-01 17:50:24,725 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:50:24,725 main.py:73  ERROR Users need four parameters
+2021-03-01 17:50:24,725 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:50:24,725 main.py:73  ERROR Users need four parameters
+2021-03-01 17:50:24,732 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:50:24,732 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:50:24,733 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:50:24,733 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:50:24,733 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:50:24,733 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:50:24,733 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:50:24,733 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:50:24,824 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:50:24,824 main.py:140 INFO Saving collection in database
+2021-03-01 17:50:24,826 main.py:114 ERROR UserStatus files must be in csv format
+2021-03-01 17:50:24,828 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:50:24,828 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:50:24,828 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:50:24,828 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:50:24,828 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:50:24,828 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:50:24,828 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:50:24,829 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:50:24,829 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:50:24,829 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:50:24,830 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:50:24,830 main.py:132 ERROR UserStatus can not have empty fields
+2021-03-01 17:50:24,831 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:50:24,831 main.py:132 ERROR UserStatus can not have empty fields
+2021-03-01 17:50:24,831 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:50:24,831 main.py:132 ERROR UserStatus can not have empty fields
+2021-03-01 17:50:24,833 main.py:159 INFO Adding a new User
+2021-03-01 17:50:24,835 main.py:171 INFO Updating an User
+2021-03-01 17:50:24,837 main.py:184 INFO Deleting an User
+2021-03-01 17:50:24,838 main.py:198 INFO Searching for an User
+2021-03-01 17:50:24,839 main.py:198 INFO Searching for an User
+2021-03-01 17:50:24,841 main.py:216 INFO Adding an UserStatus
+2021-03-01 17:50:24,842 main.py:228 INFO Updating an UserStatus
+2021-03-01 17:50:24,843 main.py:240 INFO Deleting an UserStatus
+2021-03-01 17:50:24,845 main.py:253 INFO Searching for an UserStatus
+2021-03-01 17:50:24,846 main.py:253 INFO Searching for an UserStatus
+2021-03-01 17:50:24,847 main.py:264 INFO Searching for matching UserStatuses
+2021-03-01 17:50:24,850 main.py:273 INFO Searching for UserStatuses matching string
+2021-03-01 17:50:55,373 main.py:28  INFO Creating a new UserCollection
+2021-03-01 17:50:55,375 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-01 17:50:55,377 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:50:55,377 main.py:87  INFO Saving collection in database
+2021-03-01 17:50:55,379 main.py:60  ERROR User files must be in csv format
+2021-03-01 17:50:55,381 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:50:55,381 main.py:73  ERROR Users need four parameters
+2021-03-01 17:50:55,381 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:50:55,381 main.py:73  ERROR Users need four parameters
+2021-03-01 17:50:55,382 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:50:55,382 main.py:73  ERROR Users need four parameters
+2021-03-01 17:50:55,382 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:50:55,382 main.py:73  ERROR Users need four parameters
+2021-03-01 17:50:55,382 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:50:55,382 main.py:73  ERROR Users need four parameters
+2021-03-01 17:50:55,392 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:50:55,392 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:50:55,392 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:50:55,392 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:50:55,392 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:50:55,392 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:50:55,393 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:50:55,393 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:50:55,394 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:50:55,395 main.py:68  ERROR accounts.csv does not contain data
+2021-03-01 17:50:55,396 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:50:55,396 main.py:140 INFO Saving collection in database
+2021-03-01 17:50:55,398 main.py:114 ERROR UserStatus files must be in csv format
+2021-03-01 17:50:55,400 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:50:55,400 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:50:55,400 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:50:55,400 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:50:55,400 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:50:55,400 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:50:55,400 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:50:55,401 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:50:55,401 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:50:55,401 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:50:55,402 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:50:55,402 main.py:132 ERROR UserStatus can not have empty fields
+2021-03-01 17:50:55,403 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:50:55,403 main.py:132 ERROR UserStatus can not have empty fields
+2021-03-01 17:50:55,403 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:50:55,403 main.py:132 ERROR UserStatus can not have empty fields
+2021-03-01 17:50:55,405 main.py:159 INFO Adding a new User
+2021-03-01 17:50:55,406 main.py:171 INFO Updating an User
+2021-03-01 17:50:55,408 main.py:184 INFO Deleting an User
+2021-03-01 17:50:55,409 main.py:198 INFO Searching for an User
+2021-03-01 17:50:55,411 main.py:198 INFO Searching for an User
+2021-03-01 17:50:55,412 main.py:216 INFO Adding an UserStatus
+2021-03-01 17:50:55,413 main.py:228 INFO Updating an UserStatus
+2021-03-01 17:50:55,414 main.py:240 INFO Deleting an UserStatus
+2021-03-01 17:50:55,416 main.py:253 INFO Searching for an UserStatus
+2021-03-01 17:50:55,417 main.py:253 INFO Searching for an UserStatus
+2021-03-01 17:50:55,418 main.py:264 INFO Searching for matching UserStatuses
+2021-03-01 17:50:55,420 main.py:273 INFO Searching for UserStatuses matching string
+2021-03-01 17:54:13,950 main.py:28  INFO Creating a new UserCollection
+2021-03-01 17:54:13,951 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-01 17:54:13,953 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:54:13,953 main.py:87  INFO Saving collection in database
+2021-03-01 17:54:13,955 main.py:60  ERROR User files must be in csv format
+2021-03-01 17:54:13,958 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:54:13,958 main.py:73  ERROR Users need four parameters
+2021-03-01 17:54:13,958 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:54:13,958 main.py:73  ERROR Users need four parameters
+2021-03-01 17:54:13,958 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:54:13,958 main.py:73  ERROR Users need four parameters
+2021-03-01 17:54:13,959 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:54:13,959 main.py:73  ERROR Users need four parameters
+2021-03-01 17:54:13,959 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:54:13,959 main.py:73  ERROR Users need four parameters
+2021-03-01 17:54:13,960 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:54:13,961 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:54:13,961 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:54:13,961 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:54:13,961 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:54:13,961 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:54:13,961 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:54:13,961 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:54:13,963 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:54:13,963 main.py:68  ERROR accounts.csv does not contain data
+2021-03-01 17:54:13,964 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:54:13,965 main.py:141 INFO Saving collection in database
+2021-03-01 17:54:14,035 main.py:114 ERROR UserStatus files must be in csv format
+2021-03-01 17:54:14,037 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:54:14,037 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:54:14,037 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:54:14,037 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:54:14,037 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:54:14,037 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:54:14,038 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:54:14,038 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:54:14,038 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:54:14,038 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:54:14,039 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:54:14,039 main.py:132 ERROR UserStatus can not have empty fields
+2021-03-01 17:54:14,040 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:54:14,040 main.py:132 ERROR UserStatus can not have empty fields
+2021-03-01 17:54:14,040 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:54:14,040 main.py:132 ERROR UserStatus can not have empty fields
+2021-03-01 17:54:14,041 main.py:159 INFO Adding a new User
+2021-03-01 17:54:14,043 main.py:171 INFO Updating an User
+2021-03-01 17:54:14,044 main.py:184 INFO Deleting an User
+2021-03-01 17:54:14,045 main.py:198 INFO Searching for an User
+2021-03-01 17:54:14,046 main.py:198 INFO Searching for an User
+2021-03-01 17:54:14,048 main.py:216 INFO Adding an UserStatus
+2021-03-01 17:54:14,049 main.py:228 INFO Updating an UserStatus
+2021-03-01 17:54:14,050 main.py:240 INFO Deleting an UserStatus
+2021-03-01 17:54:14,052 main.py:253 INFO Searching for an UserStatus
+2021-03-01 17:54:14,054 main.py:253 INFO Searching for an UserStatus
+2021-03-01 17:54:14,055 main.py:264 INFO Searching for matching UserStatuses
+2021-03-01 17:54:14,057 main.py:273 INFO Searching for UserStatuses matching string
+2021-03-01 17:57:14,809 main.py:28  INFO Creating a new UserCollection
+2021-03-01 17:57:14,810 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-01 17:57:14,812 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:57:14,812 main.py:87  INFO Saving collection in database
+2021-03-01 17:57:14,815 main.py:60  ERROR User files must be in csv format
+2021-03-01 17:57:14,818 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:57:14,818 main.py:73  ERROR Users need four parameters
+2021-03-01 17:57:14,818 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:57:14,818 main.py:73  ERROR Users need four parameters
+2021-03-01 17:57:14,819 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:57:14,819 main.py:73  ERROR Users need four parameters
+2021-03-01 17:57:14,819 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:57:14,819 main.py:73  ERROR Users need four parameters
+2021-03-01 17:57:14,819 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:57:14,819 main.py:73  ERROR Users need four parameters
+2021-03-01 17:57:14,828 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:57:14,828 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:57:14,828 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:57:14,828 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:57:14,829 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:57:14,829 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:57:14,829 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:57:14,829 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:57:14,831 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:57:14,831 main.py:68  ERROR accounts.csv does not contain data
+2021-03-01 17:57:14,833 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:57:14,833 main.py:141 INFO Saving collection in database
+2021-03-01 17:57:14,835 main.py:114 ERROR UserStatus files must be in csv format
+2021-03-01 17:57:14,836 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:57:14,836 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:57:14,837 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:57:14,837 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:57:14,837 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:57:14,837 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:57:14,837 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:57:14,837 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:57:14,837 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:57:14,837 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:57:14,839 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:57:14,839 main.py:132 ERROR UserStatus can not have empty fields
+2021-03-01 17:57:14,839 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:57:14,839 main.py:132 ERROR UserStatus can not have empty fields
+2021-03-01 17:57:14,839 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:57:14,840 main.py:132 ERROR UserStatus can not have empty fields
+2021-03-01 17:57:14,841 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:57:14,841 main.py:122 ERROR status_updates.csv does not contain data
+2021-03-01 17:57:14,843 main.py:159 INFO Adding a new User
+2021-03-01 17:57:14,844 main.py:171 INFO Updating an User
+2021-03-01 17:57:14,846 main.py:184 INFO Deleting an User
+2021-03-01 17:57:14,847 main.py:198 INFO Searching for an User
+2021-03-01 17:57:14,849 main.py:198 INFO Searching for an User
+2021-03-01 17:57:14,851 main.py:216 INFO Adding an UserStatus
+2021-03-01 17:57:14,852 main.py:228 INFO Updating an UserStatus
+2021-03-01 17:57:14,853 main.py:240 INFO Deleting an UserStatus
+2021-03-01 17:57:14,854 main.py:253 INFO Searching for an UserStatus
+2021-03-01 17:57:14,856 main.py:253 INFO Searching for an UserStatus
+2021-03-01 17:57:14,857 main.py:264 INFO Searching for matching UserStatuses
+2021-03-01 17:57:14,859 main.py:273 INFO Searching for UserStatuses matching string
+2021-03-01 17:57:31,216 main.py:28  INFO Creating a new UserCollection
+2021-03-01 17:57:31,218 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-01 17:57:31,220 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:57:31,221 main.py:87  INFO Saving collection in database
+2021-03-01 17:57:31,224 main.py:60  ERROR User files must be in csv format
+2021-03-01 17:57:31,227 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:57:31,227 main.py:73  ERROR Users need four parameters
+2021-03-01 17:57:31,227 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:57:31,227 main.py:73  ERROR Users need four parameters
+2021-03-01 17:57:31,228 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:57:31,228 main.py:73  ERROR Users need four parameters
+2021-03-01 17:57:31,228 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:57:31,228 main.py:73  ERROR Users need four parameters
+2021-03-01 17:57:31,229 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:57:31,229 main.py:73  ERROR Users need four parameters
+2021-03-01 17:57:31,231 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:57:31,231 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:57:31,231 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:57:31,231 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:57:31,232 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:57:31,232 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:57:31,232 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:57:31,232 main.py:78  ERROR Users can not have empty fields
+2021-03-01 17:57:31,242 main.py:63  INFO Loading users from accounts.csv
+2021-03-01 17:57:31,242 main.py:68  ERROR accounts.csv does not contain data
+2021-03-01 17:57:31,245 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:57:31,245 main.py:141 INFO Saving collection in database
+2021-03-01 17:57:31,247 main.py:114 ERROR UserStatus files must be in csv format
+2021-03-01 17:57:31,249 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:57:31,249 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:57:31,249 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:57:31,249 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:57:31,250 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:57:31,250 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:57:31,250 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:57:31,250 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:57:31,250 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:57:31,250 main.py:127 ERROR UserStatus needs three parameters
+2021-03-01 17:57:31,252 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:57:31,252 main.py:132 ERROR UserStatus can not have empty fields
+2021-03-01 17:57:31,253 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:57:31,253 main.py:132 ERROR UserStatus can not have empty fields
+2021-03-01 17:57:31,253 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:57:31,253 main.py:132 ERROR UserStatus can not have empty fields
+2021-03-01 17:57:31,255 main.py:117 INFO Saving statuses to status_updates.csv
+2021-03-01 17:57:31,255 main.py:122 ERROR status_updates.csv does not contain data
+2021-03-01 17:57:31,258 main.py:159 INFO Adding a new User
+2021-03-01 17:57:31,260 main.py:171 INFO Updating an User
+2021-03-01 17:57:31,263 main.py:184 INFO Deleting an User
+2021-03-01 17:57:31,264 main.py:198 INFO Searching for an User
+2021-03-01 17:57:31,266 main.py:198 INFO Searching for an User
+2021-03-01 17:57:31,269 main.py:216 INFO Adding an UserStatus
+2021-03-01 17:57:31,270 main.py:228 INFO Updating an UserStatus
+2021-03-01 17:57:31,272 main.py:240 INFO Deleting an UserStatus
+2021-03-01 17:57:31,275 main.py:253 INFO Searching for an UserStatus
+2021-03-01 17:57:31,278 main.py:253 INFO Searching for an UserStatus
+2021-03-01 17:57:31,280 main.py:264 INFO Searching for matching UserStatuses
+2021-03-01 17:57:31,282 main.py:273 INFO Searching for UserStatuses matching string
+2021-03-01 18:04:17,546 main.py:27  INFO Creating a new UserCollection
+2021-03-01 18:04:17,548 main.py:36  INFO Createing a new UserStatusCollection
+2021-03-01 18:04:17,550 main.py:62  INFO Loading users from accounts.csv
+2021-03-01 18:04:17,550 main.py:86  INFO Saving collection in database
+2021-03-01 18:04:17,558 main.py:59  ERROR User files must be in csv format
+2021-03-01 18:04:17,560 main.py:62  INFO Loading users from accounts.csv
+2021-03-01 18:04:17,560 main.py:72  ERROR Users need four parameters
+2021-03-01 18:04:17,560 main.py:62  INFO Loading users from accounts.csv
+2021-03-01 18:04:17,560 main.py:72  ERROR Users need four parameters
+2021-03-01 18:04:17,560 main.py:62  INFO Loading users from accounts.csv
+2021-03-01 18:04:17,560 main.py:72  ERROR Users need four parameters
+2021-03-01 18:04:17,561 main.py:62  INFO Loading users from accounts.csv
+2021-03-01 18:04:17,561 main.py:72  ERROR Users need four parameters
+2021-03-01 18:04:17,561 main.py:62  INFO Loading users from accounts.csv
+2021-03-01 18:04:17,561 main.py:72  ERROR Users need four parameters
+2021-03-01 18:04:17,563 main.py:62  INFO Loading users from accounts.csv
+2021-03-01 18:04:17,563 main.py:77  ERROR Users can not have empty fields
+2021-03-01 18:04:17,563 main.py:62  INFO Loading users from accounts.csv
+2021-03-01 18:04:17,563 main.py:77  ERROR Users can not have empty fields
+2021-03-01 18:04:17,563 main.py:62  INFO Loading users from accounts.csv
+2021-03-01 18:04:17,563 main.py:77  ERROR Users can not have empty fields
+2021-03-01 18:04:17,564 main.py:62  INFO Loading users from accounts.csv
+2021-03-01 18:04:17,564 main.py:77  ERROR Users can not have empty fields
+2021-03-01 18:04:17,566 main.py:62  INFO Loading users from accounts.csv
+2021-03-01 18:04:17,566 main.py:67  ERROR accounts.csv does not contain data
+2021-03-01 18:04:17,567 main.py:116 INFO Saving statuses to status_updates.csv
+2021-03-01 18:04:17,567 main.py:140 INFO Saving collection in database
+2021-03-01 18:04:17,569 main.py:113 ERROR UserStatus files must be in csv format
+2021-03-01 18:04:17,570 main.py:116 INFO Saving statuses to status_updates.csv
+2021-03-01 18:04:17,570 main.py:126 ERROR UserStatus needs three parameters
+2021-03-01 18:04:17,571 main.py:116 INFO Saving statuses to status_updates.csv
+2021-03-01 18:04:17,571 main.py:126 ERROR UserStatus needs three parameters
+2021-03-01 18:04:17,571 main.py:116 INFO Saving statuses to status_updates.csv
+2021-03-01 18:04:17,571 main.py:126 ERROR UserStatus needs three parameters
+2021-03-01 18:04:17,571 main.py:116 INFO Saving statuses to status_updates.csv
+2021-03-01 18:04:17,571 main.py:126 ERROR UserStatus needs three parameters
+2021-03-01 18:04:17,571 main.py:116 INFO Saving statuses to status_updates.csv
+2021-03-01 18:04:17,571 main.py:126 ERROR UserStatus needs three parameters
+2021-03-01 18:04:17,573 main.py:116 INFO Saving statuses to status_updates.csv
+2021-03-01 18:04:17,573 main.py:131 ERROR UserStatus can not have empty fields
+2021-03-01 18:04:17,573 main.py:116 INFO Saving statuses to status_updates.csv
+2021-03-01 18:04:17,573 main.py:131 ERROR UserStatus can not have empty fields
+2021-03-01 18:04:17,573 main.py:116 INFO Saving statuses to status_updates.csv
+2021-03-01 18:04:17,573 main.py:131 ERROR UserStatus can not have empty fields
+2021-03-01 18:04:17,575 main.py:116 INFO Saving statuses to status_updates.csv
+2021-03-01 18:04:17,575 main.py:121 ERROR status_updates.csv does not contain data
+2021-03-01 18:04:17,577 main.py:158 INFO Adding a new User
+2021-03-01 18:04:17,579 main.py:170 INFO Updating an User
+2021-03-01 18:04:17,581 main.py:183 INFO Deleting an User
+2021-03-01 18:04:17,583 main.py:197 INFO Searching for an User
+2021-03-01 18:04:17,584 main.py:197 INFO Searching for an User
+2021-03-01 18:04:17,585 main.py:215 INFO Adding an UserStatus
+2021-03-01 18:04:17,586 main.py:227 INFO Updating an UserStatus
+2021-03-01 18:04:17,587 main.py:239 INFO Deleting an UserStatus
+2021-03-01 18:04:17,589 main.py:252 INFO Searching for an UserStatus
+2021-03-01 18:04:17,590 main.py:252 INFO Searching for an UserStatus
+2021-03-01 18:04:17,592 main.py:263 INFO Searching for matching UserStatuses
+2021-03-01 18:04:17,594 main.py:272 INFO Searching for UserStatuses matching string
+2021-03-01 18:04:17,596 main.py:27  INFO Creating a new UserCollection
+2021-03-01 18:04:17,602 users.py:21  INFO New UserCollection instance created
+2021-03-01 18:04:17,602 main.py:36  INFO Createing a new UserStatusCollection
+2021-03-01 18:04:17,702 user_status.py:21  INFO New UserStatusCollection instance created
+2021-03-01 18:04:17,703 main.py:62  INFO Loading users from accounts.csv
+2021-03-01 18:04:17,703 main.py:67  ERROR accounts.csv does not contain data
+2021-03-01 18:04:17,703 main.py:158 INFO Adding a new User
+2021-03-01 18:04:18,113 users.py:37  INFO User dave03 sucessfully added
+2021-03-01 18:04:18,113 main.py:158 INFO Adding a new User
+2021-03-01 18:04:18,116 users.py:35  ERROR User dave03 breaks database rule: E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }, full error: {'index': 0, 'code': 11000, 'keyPattern': {'user_id': 1}, 'keyValue': {'user_id': 'dave03'}, 'errmsg': 'E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }'}
+2021-03-01 18:04:18,116 main.py:170 INFO Updating an User
+2021-03-01 18:04:18,130 users.py:54  INFO User dave03 sucessfully modified
+2021-03-01 18:04:18,130 main.py:170 INFO Updating an User
+2021-03-01 18:04:18,133 users.py:50  ERROR User dave02 not found in database
+2021-03-01 18:04:18,133 main.py:197 INFO Searching for an User
+2021-03-01 18:04:18,178 user_status.py:21  INFO New UserStatusCollection instance created
+2021-03-01 18:04:18,181 user_status.py:21  INFO New UserStatusCollection instance created
+2021-03-01 18:04:18,182 user_status.py:45  INFO Status rando_001 added to database
+2021-03-01 18:04:18,184 user_status.py:21  INFO New UserStatusCollection instance created
+2021-03-01 18:04:18,184 user_status.py:43  ERROR Status rando_001 already exists in database
+2021-03-01 18:04:18,186 user_status.py:21  INFO New UserStatusCollection instance created
+2021-03-01 18:04:18,188 user_status.py:39  ERROR User rando does not exist
+2021-03-01 18:04:18,190 user_status.py:21  INFO New UserStatusCollection instance created
+2021-03-01 18:04:18,191 user_status.py:62  INFO Status rando_001 sucessfully modified
+2021-03-01 18:04:18,193 user_status.py:21  INFO New UserStatusCollection instance created
+2021-03-01 18:04:18,193 user_status.py:57  ERROR Status rando_001 not found database
+2021-03-01 18:04:18,195 user_status.py:21  INFO New UserStatusCollection instance created
+2021-03-01 18:04:18,195 user_status.py:76  INFO Status rando_001 sucessfully deleted
+2021-03-01 18:04:18,197 user_status.py:21  INFO New UserStatusCollection instance created
+2021-03-01 18:04:18,198 user_status.py:74  ERROR Status rando_001 not found database
+2021-03-01 18:04:18,200 user_status.py:21  INFO New UserStatusCollection instance created
+2021-03-01 18:04:18,200 user_status.py:90  INFO Status rando_001 sucessfully found
+2021-03-01 18:04:18,202 user_status.py:21  INFO New UserStatusCollection instance created
+2021-03-01 18:04:18,202 user_status.py:88  ERROR Status rando_001 not found database
+2021-03-01 18:04:18,205 user_status.py:21  INFO New UserStatusCollection instance created
+2021-03-01 18:04:18,206 user_status.py:98  INFO Found statuses posted by rando
+2021-03-01 18:04:18,208 user_status.py:21  INFO New UserStatusCollection instance created
+2021-03-01 18:04:18,209 user_status.py:106 INFO Found statuses matching best
+2021-03-01 18:04:18,211 users.py:21  INFO New UserCollection instance created
+2021-03-01 18:04:18,213 users.py:21  INFO New UserCollection instance created
+2021-03-01 18:04:18,214 users.py:37  INFO User rando sucessfully added
+2021-03-01 18:04:18,216 users.py:21  INFO New UserCollection instance created
+2021-03-01 18:04:18,216 users.py:35  ERROR User rando breaks database rule: ERR_MSG
+2021-03-01 18:04:18,218 users.py:21  INFO New UserCollection instance created
+2021-03-01 18:04:18,219 users.py:54  INFO User rando sucessfully modified
+2021-03-01 18:04:18,222 users.py:21  INFO New UserCollection instance created
+2021-03-01 18:04:18,222 users.py:50  ERROR User rando not found in database
+2021-03-01 18:04:18,224 users.py:21  INFO New UserCollection instance created
+2021-03-01 18:04:18,225 users.py:68  INFO User rando sucessfully deleted
+2021-03-01 18:04:18,227 users.py:21  INFO New UserCollection instance created
+2021-03-01 18:04:18,228 users.py:66  ERROR User rando not found in database
+2021-03-01 18:04:18,229 users.py:21  INFO New UserCollection instance created
+2021-03-01 18:04:18,230 users.py:81  INFO User rando sucessfully found
+2021-03-01 18:04:18,232 users.py:21  INFO New UserCollection instance created
+2021-03-01 18:04:18,232 users.py:79  ERROR User rando not found in database

@@ -1,0 +1,8 @@
+2021-04-03 10:51:01,805 main.py:28  INFO Creating a new UserCollection
+2021-04-03 10:51:01,932 users.py:27  INFO New UserCollection instance created
+2021-04-03 10:51:01,932 main.py:37  INFO Createing a new UserStatusCollection
+2021-04-03 10:51:05,663 user_status.py:23  INFO New UserStatusCollection instance created
+2021-04-03 10:51:06,065 main.py:63  INFO Loading users from accounts.csv
+2021-04-03 10:51:06,070 main.py:87  INFO Saving collection in database
+2021-04-03 10:51:06,152 main.py:120 INFO Saving statuses to status_updates.csv
+2021-04-03 10:51:06,597 main.py:144 INFO Saving collection in database

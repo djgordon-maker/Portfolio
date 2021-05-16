@@ -1,0 +1,1326 @@
+2021-03-08 15:53:03,150 main.py:28  INFO Creating a new UserCollection
+2021-03-08 15:53:03,199 users.py:27  INFO New UserCollection instance created
+2021-03-08 15:53:03,199 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-08 15:53:03,204 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 15:53:46,823 main.py:259 INFO Searching for an UserStatus
+2021-03-08 15:53:46,841 user_status.py:88  ERROR Status Drusi.Lianne86_116 not found database
+2021-03-08 15:53:55,721 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 15:53:55,724 main.py:87  INFO Saving collection in database
+2021-03-08 15:54:06,081 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 15:54:06,320 main.py:144 INFO Saving collection in database
+2021-03-08 15:54:27,092 main.py:259 INFO Searching for an UserStatus
+2021-03-08 15:54:27,095 user_status.py:90  INFO Status Drusie.Lianne86_116 sucessfully found
+2021-03-08 15:54:32,933 main.py:28  INFO Creating a new UserCollection
+2021-03-08 15:54:32,936 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-08 15:54:32,937 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 15:54:32,937 main.py:87  INFO Saving collection in database
+2021-03-08 15:54:32,939 main.py:60  ERROR User files must be in csv format
+2021-03-08 15:54:32,941 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 15:54:32,941 main.py:73  ERROR Users need four parameters
+2021-03-08 15:54:32,941 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 15:54:32,941 main.py:73  ERROR Users need four parameters
+2021-03-08 15:54:32,941 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 15:54:32,941 main.py:73  ERROR Users need four parameters
+2021-03-08 15:54:32,941 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 15:54:32,941 main.py:73  ERROR Users need four parameters
+2021-03-08 15:54:32,942 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 15:54:32,942 main.py:73  ERROR Users need four parameters
+2021-03-08 15:54:32,943 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 15:54:32,943 main.py:78  ERROR Users can not have empty fields
+2021-03-08 15:54:32,944 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 15:54:32,944 main.py:78  ERROR Users can not have empty fields
+2021-03-08 15:54:32,944 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 15:54:32,944 main.py:78  ERROR Users can not have empty fields
+2021-03-08 15:54:32,944 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 15:54:32,944 main.py:78  ERROR Users can not have empty fields
+2021-03-08 15:54:32,945 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 15:54:32,946 main.py:68  ERROR accounts.csv does not contain data
+2021-03-08 15:54:32,947 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 15:54:32,947 main.py:144 INFO Saving collection in database
+2021-03-08 15:54:32,949 main.py:117 ERROR UserStatus files must be in csv format
+2021-03-08 15:54:32,950 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 15:54:32,950 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 15:54:32,950 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 15:54:32,950 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 15:54:32,951 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 15:54:32,951 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 15:54:32,951 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 15:54:32,951 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 15:54:32,951 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 15:54:32,951 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 15:54:32,953 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 15:54:32,953 main.py:135 ERROR UserStatus can not have empty fields
+2021-03-08 15:54:32,953 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 15:54:32,953 main.py:135 ERROR UserStatus can not have empty fields
+2021-03-08 15:54:32,953 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 15:54:32,954 main.py:135 ERROR UserStatus can not have empty fields
+2021-03-08 15:54:32,955 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 15:54:32,955 main.py:125 ERROR status_updates.csv does not contain data
+2021-03-08 15:54:32,956 main.py:165 INFO Adding a new User
+2021-03-08 15:54:32,957 main.py:177 INFO Updating an User
+2021-03-08 15:54:32,959 main.py:190 INFO Deleting an User
+2021-03-08 15:54:32,960 main.py:204 INFO Searching for an User
+2021-03-08 15:54:32,961 main.py:204 INFO Searching for an User
+2021-03-08 15:54:32,962 main.py:222 INFO Adding an UserStatus
+2021-03-08 15:54:32,964 main.py:234 INFO Updating an UserStatus
+2021-03-08 15:54:32,965 main.py:246 INFO Deleting an UserStatus
+2021-03-08 15:54:32,966 main.py:259 INFO Searching for an UserStatus
+2021-03-08 15:54:32,968 main.py:259 INFO Searching for an UserStatus
+2021-03-08 15:54:32,969 main.py:270 INFO Searching for matching UserStatuses
+2021-03-08 15:54:32,971 main.py:279 INFO Searching for UserStatuses matching string
+2021-03-08 15:54:33,442 main.py:28  INFO Creating a new UserCollection
+2021-03-08 15:54:33,538 users.py:27  INFO New UserCollection instance created
+2021-03-08 15:54:33,538 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-08 15:54:33,636 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 15:54:33,637 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 15:54:33,637 main.py:68  ERROR accounts.csv does not contain data
+2021-03-08 15:54:33,637 main.py:165 INFO Adding a new User
+2021-03-08 15:54:33,950 users.py:45  INFO User dave03 sucessfully added
+2021-03-08 15:54:33,950 main.py:165 INFO Adding a new User
+2021-03-08 15:54:33,955 users.py:43  ERROR User dave03 breaks database rule: E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }, full error: {'index': 0, 'code': 11000, 'keyPattern': {'user_id': 1}, 'keyValue': {'user_id': 'dave03'}, 'errmsg': 'E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }'}
+2021-03-08 15:54:33,955 main.py:177 INFO Updating an User
+2021-03-08 15:54:33,960 users.py:65  INFO User dave03 sucessfully modified
+2021-03-08 15:54:33,960 main.py:177 INFO Updating an User
+2021-03-08 15:54:33,962 users.py:61  ERROR User dave02 not found in database
+2021-03-08 15:54:33,962 main.py:204 INFO Searching for an User
+2021-03-08 15:54:33,964 users.py:96  INFO User dave03 sucessfully found
+2021-03-08 15:54:33,964 main.py:204 INFO Searching for an User
+2021-03-08 15:54:33,966 users.py:94  ERROR User dave02 not found in database
+2021-03-08 15:54:33,966 main.py:190 INFO Deleting an User
+2021-03-08 15:54:33,970 users.py:83  INFO User dave03 sucessfully deleted
+2021-03-08 15:54:33,970 main.py:190 INFO Deleting an User
+2021-03-08 15:54:33,972 users.py:78  ERROR User dave03 not found in database
+2021-03-08 15:54:33,972 main.py:165 INFO Adding a new User
+2021-03-08 15:54:33,974 users.py:45  INFO User dave03 sucessfully added
+2021-03-08 15:54:33,974 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 15:54:33,974 main.py:125 ERROR status_updates.csv does not contain data
+2021-03-08 15:54:33,975 main.py:222 INFO Adding an UserStatus
+2021-03-08 15:54:34,059 user_status.py:45  INFO Status dave03_01 added to database
+2021-03-08 15:54:34,059 main.py:222 INFO Adding an UserStatus
+2021-03-08 15:54:34,063 user_status.py:43  ERROR Status dave03_01 already exists in database
+2021-03-08 15:54:34,063 main.py:234 INFO Updating an UserStatus
+2021-03-08 15:54:34,066 user_status.py:62  INFO Status dave03_01 sucessfully modified
+2021-03-08 15:54:34,066 main.py:234 INFO Updating an UserStatus
+2021-03-08 15:54:34,068 user_status.py:57  ERROR Status dave03_02 not found database
+2021-03-08 15:54:34,068 main.py:259 INFO Searching for an UserStatus
+2021-03-08 15:54:34,070 user_status.py:90  INFO Status dave03_01 sucessfully found
+2021-03-08 15:54:34,070 main.py:259 INFO Searching for an UserStatus
+2021-03-08 15:54:34,072 user_status.py:88  ERROR Status dave03 not found database
+2021-03-08 15:54:34,073 main.py:246 INFO Deleting an UserStatus
+2021-03-08 15:54:34,075 user_status.py:76  INFO Status dave03_01 sucessfully deleted
+2021-03-08 15:54:34,075 main.py:246 INFO Deleting an UserStatus
+2021-03-08 15:54:34,077 user_status.py:74  ERROR Status dave03_01 not found database
+2021-03-08 15:54:34,077 main.py:222 INFO Adding an UserStatus
+2021-03-08 15:54:34,080 user_status.py:45  INFO Status dave03_01 added to database
+2021-03-08 15:54:34,080 main.py:190 INFO Deleting an User
+2021-03-08 15:54:34,085 users.py:83  INFO User dave03 sucessfully deleted
+2021-03-08 15:54:34,085 main.py:259 INFO Searching for an UserStatus
+2021-03-08 15:54:34,086 user_status.py:88  ERROR Status dave03_01 not found database
+2021-03-08 15:54:34,087 main.py:165 INFO Adding a new User
+2021-03-08 15:54:34,087 users.py:105 ERROR User id ############################## is longer than 30
+2021-03-08 15:54:34,087 main.py:165 INFO Adding a new User
+2021-03-08 15:54:34,087 users.py:109 ERROR User name ############################## is longer than 30
+2021-03-08 15:54:34,087 main.py:165 INFO Adding a new User
+2021-03-08 15:54:34,087 users.py:113 ERROR User last name #################################################################################################### is longer than 100
+2021-03-08 15:54:34,090 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 15:54:34,092 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 15:54:34,094 user_status.py:45  INFO Status rando_001 added to database
+2021-03-08 15:54:34,096 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 15:54:34,097 user_status.py:43  ERROR Status rando_001 already exists in database
+2021-03-08 15:54:34,099 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 15:54:34,099 user_status.py:39  ERROR User rando does not exist
+2021-03-08 15:54:34,101 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 15:54:34,102 user_status.py:62  INFO Status rando_001 sucessfully modified
+2021-03-08 15:54:34,103 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 15:54:34,104 user_status.py:57  ERROR Status rando_001 not found database
+2021-03-08 15:54:34,106 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 15:54:34,107 user_status.py:76  INFO Status rando_001 sucessfully deleted
+2021-03-08 15:54:34,108 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 15:54:34,109 user_status.py:74  ERROR Status rando_001 not found database
+2021-03-08 15:54:34,111 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 15:54:34,111 user_status.py:90  INFO Status rando_001 sucessfully found
+2021-03-08 15:54:34,113 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 15:54:34,113 user_status.py:88  ERROR Status rando_001 not found database
+2021-03-08 15:54:34,115 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 15:54:34,116 user_status.py:99  INFO Found statuses posted by rando
+2021-03-08 15:54:34,117 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 15:54:34,118 user_status.py:107 INFO Found statuses matching best
+2021-03-08 15:54:34,120 users.py:27  INFO New UserCollection instance created
+2021-03-08 15:54:34,122 users.py:27  INFO New UserCollection instance created
+2021-03-08 15:54:34,123 users.py:45  INFO User rando sucessfully added
+2021-03-08 15:54:34,125 users.py:27  INFO New UserCollection instance created
+2021-03-08 15:54:34,125 users.py:43  ERROR User rando breaks database rule: ERR_MSG
+2021-03-08 15:54:34,127 users.py:27  INFO New UserCollection instance created
+2021-03-08 15:54:34,127 users.py:105 ERROR User id ############################## is longer than 30
+2021-03-08 15:54:34,128 users.py:27  INFO New UserCollection instance created
+2021-03-08 15:54:34,129 users.py:65  INFO User rando sucessfully modified
+2021-03-08 15:54:34,131 users.py:27  INFO New UserCollection instance created
+2021-03-08 15:54:34,132 users.py:61  ERROR User rando not found in database
+2021-03-08 15:54:34,133 users.py:27  INFO New UserCollection instance created
+2021-03-08 15:54:34,134 users.py:105 ERROR User id ############################## is longer than 30
+2021-03-08 15:54:34,135 users.py:27  INFO New UserCollection instance created
+2021-03-08 15:54:34,136 users.py:83  INFO User rando sucessfully deleted
+2021-03-08 15:54:34,138 users.py:27  INFO New UserCollection instance created
+2021-03-08 15:54:34,139 users.py:78  ERROR User rando not found in database
+2021-03-08 15:54:34,140 users.py:27  INFO New UserCollection instance created
+2021-03-08 15:54:34,141 users.py:96  INFO User rando sucessfully found
+2021-03-08 15:54:34,142 users.py:27  INFO New UserCollection instance created
+2021-03-08 15:54:34,143 users.py:94  ERROR User rando not found in database
+2021-03-08 15:54:34,145 users.py:27  INFO New UserCollection instance created
+2021-03-08 15:54:34,145 users.py:105 ERROR User id ############################## is longer than 30
+2021-03-08 15:54:34,145 users.py:109 ERROR User name ############################## is longer than 30
+2021-03-08 15:54:34,145 users.py:113 ERROR User last name #################################################################################################### is longer than 100
+2021-03-08 15:56:01,227 main.py:28  INFO Creating a new UserCollection
+2021-03-08 15:56:01,232 users.py:27  INFO New UserCollection instance created
+2021-03-08 15:56:01,233 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-08 15:56:01,236 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 15:56:05,973 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 15:56:05,976 main.py:87  INFO Saving collection in database
+2021-03-08 15:56:15,441 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 15:56:15,654 main.py:144 INFO Saving collection in database
+2021-03-08 15:56:45,382 main.py:270 INFO Searching for matching UserStatuses
+2021-03-08 15:56:45,431 user_status.py:99  INFO Found statuses posted by j
+2021-03-08 15:57:12,369 main.py:270 INFO Searching for matching UserStatuses
+2021-03-08 15:57:12,414 user_status.py:99  INFO Found statuses posted by Drusie.Lianne86
+2021-03-08 15:57:38,567 main.py:279 INFO Searching for UserStatuses matching string
+2021-03-08 15:57:38,567 user_status.py:107 INFO Found statuses matching hard heat
+2021-03-08 15:59:58,901 main.py:259 INFO Searching for an UserStatus
+2021-03-08 15:59:58,903 user_status.py:88  ERROR Status Margi.Marthia73_50 not found database
+2021-03-08 16:00:28,000 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:00:28,003 user_status.py:90  INFO Status Aubree.Charles48_448 sucessfully found
+2021-03-08 16:00:43,489 main.py:28  INFO Creating a new UserCollection
+2021-03-08 16:00:43,495 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:00:43,495 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-08 16:00:43,498 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:01:24,466 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:01:24,470 user_status.py:90  INFO Status Aubree.Charles48_448 sucessfully found
+2021-03-08 16:02:39,908 main.py:28  INFO Creating a new UserCollection
+2021-03-08 16:02:39,909 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-08 16:02:39,911 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:02:39,911 main.py:87  INFO Saving collection in database
+2021-03-08 16:02:39,913 main.py:60  ERROR User files must be in csv format
+2021-03-08 16:02:39,914 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:02:39,914 main.py:73  ERROR Users need four parameters
+2021-03-08 16:02:39,914 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:02:39,914 main.py:73  ERROR Users need four parameters
+2021-03-08 16:02:39,915 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:02:39,915 main.py:73  ERROR Users need four parameters
+2021-03-08 16:02:39,915 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:02:39,915 main.py:73  ERROR Users need four parameters
+2021-03-08 16:02:39,915 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:02:39,915 main.py:73  ERROR Users need four parameters
+2021-03-08 16:02:39,916 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:02:39,917 main.py:78  ERROR Users can not have empty fields
+2021-03-08 16:02:39,917 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:02:39,917 main.py:78  ERROR Users can not have empty fields
+2021-03-08 16:02:39,917 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:02:39,917 main.py:78  ERROR Users can not have empty fields
+2021-03-08 16:02:39,917 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:02:39,917 main.py:78  ERROR Users can not have empty fields
+2021-03-08 16:02:39,919 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:02:39,919 main.py:68  ERROR accounts.csv does not contain data
+2021-03-08 16:02:39,920 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:02:39,920 main.py:144 INFO Saving collection in database
+2021-03-08 16:02:39,922 main.py:117 ERROR UserStatus files must be in csv format
+2021-03-08 16:02:39,923 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:02:39,923 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 16:02:39,923 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:02:39,923 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 16:02:39,924 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:02:39,924 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 16:02:39,924 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:02:39,924 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 16:02:39,924 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:02:39,924 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 16:02:39,926 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:02:39,926 main.py:135 ERROR UserStatus can not have empty fields
+2021-03-08 16:02:39,926 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:02:39,926 main.py:135 ERROR UserStatus can not have empty fields
+2021-03-08 16:02:39,926 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:02:39,926 main.py:135 ERROR UserStatus can not have empty fields
+2021-03-08 16:02:39,928 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:02:39,928 main.py:125 ERROR status_updates.csv does not contain data
+2021-03-08 16:02:39,930 main.py:165 INFO Adding a new User
+2021-03-08 16:02:39,931 main.py:177 INFO Updating an User
+2021-03-08 16:02:39,932 main.py:190 INFO Deleting an User
+2021-03-08 16:02:39,933 main.py:204 INFO Searching for an User
+2021-03-08 16:02:39,934 main.py:204 INFO Searching for an User
+2021-03-08 16:02:39,936 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:02:39,937 main.py:234 INFO Updating an UserStatus
+2021-03-08 16:02:39,938 main.py:246 INFO Deleting an UserStatus
+2021-03-08 16:02:39,939 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:02:39,941 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:02:39,942 main.py:270 INFO Searching for matching UserStatuses
+2021-03-08 16:02:39,943 main.py:279 INFO Searching for UserStatuses matching string
+2021-03-08 16:02:40,050 main.py:28  INFO Creating a new UserCollection
+2021-03-08 16:02:40,117 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:02:40,117 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-08 16:02:40,217 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:02:40,217 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:02:40,217 main.py:68  ERROR accounts.csv does not contain data
+2021-03-08 16:02:40,217 main.py:165 INFO Adding a new User
+2021-03-08 16:02:40,571 users.py:45  INFO User dave03 sucessfully added
+2021-03-08 16:02:40,571 main.py:165 INFO Adding a new User
+2021-03-08 16:02:40,573 users.py:43  ERROR User dave03 breaks database rule: E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }, full error: {'index': 0, 'code': 11000, 'keyPattern': {'user_id': 1}, 'keyValue': {'user_id': 'dave03'}, 'errmsg': 'E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }'}
+2021-03-08 16:02:40,573 main.py:177 INFO Updating an User
+2021-03-08 16:02:40,576 users.py:65  INFO User dave03 sucessfully modified
+2021-03-08 16:02:40,576 main.py:177 INFO Updating an User
+2021-03-08 16:02:40,578 users.py:61  ERROR User dave02 not found in database
+2021-03-08 16:02:40,578 main.py:204 INFO Searching for an User
+2021-03-08 16:02:40,581 users.py:96  INFO User dave03 sucessfully found
+2021-03-08 16:02:40,581 main.py:204 INFO Searching for an User
+2021-03-08 16:02:40,583 users.py:94  ERROR User dave02 not found in database
+2021-03-08 16:02:40,583 main.py:190 INFO Deleting an User
+2021-03-08 16:02:40,587 users.py:83  INFO User dave03 sucessfully deleted
+2021-03-08 16:02:40,587 main.py:190 INFO Deleting an User
+2021-03-08 16:02:40,589 users.py:78  ERROR User dave03 not found in database
+2021-03-08 16:02:40,589 main.py:165 INFO Adding a new User
+2021-03-08 16:02:40,591 users.py:45  INFO User dave03 sucessfully added
+2021-03-08 16:02:40,592 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:02:40,592 main.py:125 ERROR status_updates.csv does not contain data
+2021-03-08 16:02:40,592 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:02:40,632 user_status.py:45  INFO Status dave03_01 added to database
+2021-03-08 16:02:40,632 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:02:40,636 user_status.py:43  ERROR Status dave03_01 already exists in database
+2021-03-08 16:02:40,636 main.py:234 INFO Updating an UserStatus
+2021-03-08 16:02:40,639 user_status.py:62  INFO Status dave03_01 sucessfully modified
+2021-03-08 16:02:40,639 main.py:234 INFO Updating an UserStatus
+2021-03-08 16:02:40,641 user_status.py:57  ERROR Status dave03_02 not found database
+2021-03-08 16:02:40,641 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:02:40,643 user_status.py:90  INFO Status dave03_01 sucessfully found
+2021-03-08 16:02:40,644 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:02:40,646 user_status.py:88  ERROR Status dave03 not found database
+2021-03-08 16:02:40,646 main.py:246 INFO Deleting an UserStatus
+2021-03-08 16:02:40,648 user_status.py:76  INFO Status dave03_01 sucessfully deleted
+2021-03-08 16:02:40,648 main.py:246 INFO Deleting an UserStatus
+2021-03-08 16:02:40,650 user_status.py:74  ERROR Status dave03_01 not found database
+2021-03-08 16:02:40,650 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:02:40,654 user_status.py:45  INFO Status dave03_01 added to database
+2021-03-08 16:02:40,654 main.py:190 INFO Deleting an User
+2021-03-08 16:02:40,658 users.py:83  INFO User dave03 sucessfully deleted
+2021-03-08 16:02:40,658 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:02:40,660 user_status.py:88  ERROR Status dave03_01 not found database
+2021-03-08 16:02:40,660 main.py:165 INFO Adding a new User
+2021-03-08 16:02:40,660 users.py:105 ERROR User id ############################## is longer than 30
+2021-03-08 16:02:40,660 main.py:165 INFO Adding a new User
+2021-03-08 16:02:40,660 users.py:109 ERROR User name ############################## is longer than 30
+2021-03-08 16:02:40,660 main.py:165 INFO Adding a new User
+2021-03-08 16:02:40,660 users.py:113 ERROR User last name #################################################################################################### is longer than 100
+2021-03-08 16:02:40,663 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:02:40,666 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:02:40,668 user_status.py:45  INFO Status rando_001 added to database
+2021-03-08 16:02:40,669 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:02:40,670 user_status.py:43  ERROR Status rando_001 already exists in database
+2021-03-08 16:02:40,672 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:02:40,673 user_status.py:39  ERROR User rando does not exist
+2021-03-08 16:02:40,675 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:02:40,675 user_status.py:62  INFO Status rando_001 sucessfully modified
+2021-03-08 16:02:40,677 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:02:40,677 user_status.py:57  ERROR Status rando_001 not found database
+2021-03-08 16:02:40,679 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:02:40,680 user_status.py:76  INFO Status rando_001 sucessfully deleted
+2021-03-08 16:02:40,682 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:02:40,682 user_status.py:74  ERROR Status rando_001 not found database
+2021-03-08 16:02:40,684 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:02:40,685 user_status.py:90  INFO Status rando_001 sucessfully found
+2021-03-08 16:02:40,686 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:02:40,687 user_status.py:88  ERROR Status rando_001 not found database
+2021-03-08 16:02:40,689 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:02:40,689 user_status.py:99  INFO Found statuses posted by rando
+2021-03-08 16:02:40,691 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:02:40,691 user_status.py:107 INFO Found statuses matching best
+2021-03-08 16:02:40,693 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:02:40,696 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:02:40,697 users.py:45  INFO User rando sucessfully added
+2021-03-08 16:02:40,698 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:02:40,699 users.py:43  ERROR User rando breaks database rule: ERR_MSG
+2021-03-08 16:02:40,700 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:02:40,700 users.py:105 ERROR User id ############################## is longer than 30
+2021-03-08 16:02:40,702 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:02:40,703 users.py:65  INFO User rando sucessfully modified
+2021-03-08 16:02:40,705 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:02:40,705 users.py:61  ERROR User rando not found in database
+2021-03-08 16:02:40,707 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:02:40,707 users.py:105 ERROR User id ############################## is longer than 30
+2021-03-08 16:02:40,709 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:02:40,710 users.py:83  INFO User rando sucessfully deleted
+2021-03-08 16:02:40,712 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:02:40,712 users.py:78  ERROR User rando not found in database
+2021-03-08 16:02:40,715 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:02:40,715 users.py:96  INFO User rando sucessfully found
+2021-03-08 16:02:40,717 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:02:40,717 users.py:94  ERROR User rando not found in database
+2021-03-08 16:02:40,719 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:02:40,719 users.py:105 ERROR User id ############################## is longer than 30
+2021-03-08 16:02:40,719 users.py:109 ERROR User name ############################## is longer than 30
+2021-03-08 16:02:40,719 users.py:113 ERROR User last name #################################################################################################### is longer than 100
+2021-03-08 16:03:05,549 main.py:28  INFO Creating a new UserCollection
+2021-03-08 16:03:05,554 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:03:05,555 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-08 16:03:05,557 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:03:13,161 main.py:204 INFO Searching for an User
+2021-03-08 16:03:13,165 users.py:94  ERROR User dave03 not found in database
+2021-03-08 16:03:29,003 main.py:204 INFO Searching for an User
+2021-03-08 16:03:29,005 users.py:94  ERROR User dave02 not found in database
+2021-03-08 16:03:42,929 main.py:279 INFO Searching for UserStatuses matching string
+2021-03-08 16:03:42,929 user_status.py:107 INFO Found statuses matching 
+2021-03-08 16:05:56,636 main.py:165 INFO Adding a new User
+2021-03-08 16:05:56,638 users.py:45  INFO User dave03 sucessfully added
+2021-03-08 16:06:20,822 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:06:20,826 user_status.py:45  INFO Status dave03_01 added to database
+2021-03-08 16:06:28,459 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:06:28,461 user_status.py:90  INFO Status dave03_01 sucessfully found
+2021-03-08 16:10:08,692 main.py:28  INFO Creating a new UserCollection
+2021-03-08 16:10:08,693 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-08 16:10:08,695 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:10:08,695 main.py:87  INFO Saving collection in database
+2021-03-08 16:10:08,696 main.py:60  ERROR User files must be in csv format
+2021-03-08 16:10:08,698 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:10:08,698 main.py:73  ERROR Users need four parameters
+2021-03-08 16:10:08,698 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:10:08,698 main.py:73  ERROR Users need four parameters
+2021-03-08 16:10:08,698 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:10:08,698 main.py:73  ERROR Users need four parameters
+2021-03-08 16:10:08,698 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:10:08,699 main.py:73  ERROR Users need four parameters
+2021-03-08 16:10:08,699 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:10:08,699 main.py:73  ERROR Users need four parameters
+2021-03-08 16:10:08,700 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:10:08,700 main.py:78  ERROR Users can not have empty fields
+2021-03-08 16:10:08,700 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:10:08,700 main.py:78  ERROR Users can not have empty fields
+2021-03-08 16:10:08,701 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:10:08,701 main.py:78  ERROR Users can not have empty fields
+2021-03-08 16:10:08,701 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:10:08,701 main.py:78  ERROR Users can not have empty fields
+2021-03-08 16:10:08,702 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:10:08,702 main.py:68  ERROR accounts.csv does not contain data
+2021-03-08 16:10:08,704 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:10:08,704 main.py:144 INFO Saving collection in database
+2021-03-08 16:10:08,705 main.py:117 ERROR UserStatus files must be in csv format
+2021-03-08 16:10:08,707 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:10:08,707 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 16:10:08,707 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:10:08,707 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 16:10:08,708 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:10:08,708 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 16:10:08,708 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:10:08,708 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 16:10:08,708 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:10:08,708 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 16:10:08,709 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:10:08,710 main.py:135 ERROR UserStatus can not have empty fields
+2021-03-08 16:10:08,710 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:10:08,710 main.py:135 ERROR UserStatus can not have empty fields
+2021-03-08 16:10:08,710 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:10:08,710 main.py:135 ERROR UserStatus can not have empty fields
+2021-03-08 16:10:08,711 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:10:08,711 main.py:125 ERROR status_updates.csv does not contain data
+2021-03-08 16:10:08,713 main.py:165 INFO Adding a new User
+2021-03-08 16:10:08,714 main.py:177 INFO Updating an User
+2021-03-08 16:10:08,715 main.py:190 INFO Deleting an User
+2021-03-08 16:10:08,716 main.py:204 INFO Searching for an User
+2021-03-08 16:10:08,717 main.py:204 INFO Searching for an User
+2021-03-08 16:10:08,719 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:10:08,720 main.py:234 INFO Updating an UserStatus
+2021-03-08 16:10:08,721 main.py:246 INFO Deleting an UserStatus
+2021-03-08 16:10:08,722 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:10:08,724 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:10:08,730 main.py:270 INFO Searching for matching UserStatuses
+2021-03-08 16:10:08,732 main.py:279 INFO Searching for UserStatuses matching string
+2021-03-08 16:10:08,824 main.py:28  INFO Creating a new UserCollection
+2021-03-08 16:10:08,892 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:10:08,892 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-08 16:10:08,992 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:10:08,993 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:10:08,993 main.py:68  ERROR accounts.csv does not contain data
+2021-03-08 16:10:08,993 main.py:165 INFO Adding a new User
+2021-03-08 16:10:09,334 users.py:45  INFO User dave03 sucessfully added
+2021-03-08 16:10:09,334 main.py:165 INFO Adding a new User
+2021-03-08 16:10:09,338 users.py:43  ERROR User dave03 breaks database rule: E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }, full error: {'index': 0, 'code': 11000, 'keyPattern': {'user_id': 1}, 'keyValue': {'user_id': 'dave03'}, 'errmsg': 'E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }'}
+2021-03-08 16:10:09,339 main.py:177 INFO Updating an User
+2021-03-08 16:10:09,343 users.py:65  INFO User dave03 sucessfully modified
+2021-03-08 16:10:09,343 main.py:177 INFO Updating an User
+2021-03-08 16:10:09,346 users.py:61  ERROR User dave02 not found in database
+2021-03-08 16:10:09,347 main.py:204 INFO Searching for an User
+2021-03-08 16:10:09,350 users.py:96  INFO User dave03 sucessfully found
+2021-03-08 16:10:09,350 main.py:204 INFO Searching for an User
+2021-03-08 16:10:09,353 users.py:94  ERROR User dave02 not found in database
+2021-03-08 16:10:09,354 main.py:190 INFO Deleting an User
+2021-03-08 16:10:09,359 users.py:83  INFO User dave03 sucessfully deleted
+2021-03-08 16:10:09,359 main.py:190 INFO Deleting an User
+2021-03-08 16:10:09,362 users.py:78  ERROR User dave03 not found in database
+2021-03-08 16:10:09,363 main.py:165 INFO Adding a new User
+2021-03-08 16:10:09,366 users.py:45  INFO User dave03 sucessfully added
+2021-03-08 16:10:09,366 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:10:09,367 main.py:125 ERROR status_updates.csv does not contain data
+2021-03-08 16:10:09,367 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:10:09,413 user_status.py:45  INFO Status dave03_01 added to database
+2021-03-08 16:10:09,413 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:10:09,419 user_status.py:43  ERROR Status dave03_01 already exists in database
+2021-03-08 16:10:09,419 main.py:234 INFO Updating an UserStatus
+2021-03-08 16:10:09,423 user_status.py:62  INFO Status dave03_01 sucessfully modified
+2021-03-08 16:10:09,424 main.py:234 INFO Updating an UserStatus
+2021-03-08 16:10:09,427 user_status.py:57  ERROR Status dave03_02 not found database
+2021-03-08 16:10:09,428 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:10:09,431 user_status.py:90  INFO Status dave03_01 sucessfully found
+2021-03-08 16:10:09,432 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:10:09,435 user_status.py:88  ERROR Status dave03 not found database
+2021-03-08 16:10:09,435 main.py:246 INFO Deleting an UserStatus
+2021-03-08 16:10:09,439 user_status.py:76  INFO Status dave03_01 sucessfully deleted
+2021-03-08 16:10:09,439 main.py:246 INFO Deleting an UserStatus
+2021-03-08 16:10:09,442 user_status.py:74  ERROR Status dave03_01 not found database
+2021-03-08 16:10:09,442 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:10:09,448 user_status.py:45  INFO Status dave03_01 added to database
+2021-03-08 16:10:09,448 main.py:190 INFO Deleting an User
+2021-03-08 16:10:09,454 users.py:83  INFO User dave03 sucessfully deleted
+2021-03-08 16:10:09,454 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:10:09,457 user_status.py:88  ERROR Status dave03_01 not found database
+2021-03-08 16:10:09,457 main.py:165 INFO Adding a new User
+2021-03-08 16:10:09,458 users.py:105 ERROR User id ############################## is longer than 30
+2021-03-08 16:10:09,458 main.py:165 INFO Adding a new User
+2021-03-08 16:10:09,458 users.py:109 ERROR User name ############################## is longer than 30
+2021-03-08 16:10:09,458 main.py:165 INFO Adding a new User
+2021-03-08 16:10:09,458 users.py:113 ERROR User last name #################################################################################################### is longer than 100
+2021-03-08 16:10:09,461 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:10:09,465 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:10:09,466 user_status.py:45  INFO Status rando_001 added to database
+2021-03-08 16:10:09,468 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:10:09,469 user_status.py:43  ERROR Status rando_001 already exists in database
+2021-03-08 16:10:09,471 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:10:09,472 user_status.py:39  ERROR User rando does not exist
+2021-03-08 16:10:09,473 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:10:09,474 user_status.py:62  INFO Status rando_001 sucessfully modified
+2021-03-08 16:10:09,476 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:10:09,476 user_status.py:57  ERROR Status rando_001 not found database
+2021-03-08 16:10:09,478 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:10:09,479 user_status.py:76  INFO Status rando_001 sucessfully deleted
+2021-03-08 16:10:09,480 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:10:09,481 user_status.py:74  ERROR Status rando_001 not found database
+2021-03-08 16:10:09,483 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:10:09,483 user_status.py:90  INFO Status rando_001 sucessfully found
+2021-03-08 16:10:09,485 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:10:09,485 user_status.py:88  ERROR Status rando_001 not found database
+2021-03-08 16:10:09,487 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:10:09,488 user_status.py:99  INFO Found statuses posted by rando
+2021-03-08 16:10:09,490 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:10:09,490 user_status.py:107 INFO Found statuses matching best
+2021-03-08 16:10:09,492 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:10:09,494 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:10:09,495 users.py:45  INFO User rando sucessfully added
+2021-03-08 16:10:09,497 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:10:09,497 users.py:43  ERROR User rando breaks database rule: ERR_MSG
+2021-03-08 16:10:09,499 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:10:09,499 users.py:105 ERROR User id ############################## is longer than 30
+2021-03-08 16:10:09,500 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:10:09,501 users.py:65  INFO User rando sucessfully modified
+2021-03-08 16:10:09,503 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:10:09,503 users.py:61  ERROR User rando not found in database
+2021-03-08 16:10:09,505 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:10:09,506 users.py:105 ERROR User id ############################## is longer than 30
+2021-03-08 16:10:09,508 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:10:09,509 users.py:83  INFO User rando sucessfully deleted
+2021-03-08 16:10:09,511 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:10:09,511 users.py:78  ERROR User rando not found in database
+2021-03-08 16:10:09,513 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:10:09,513 users.py:96  INFO User rando sucessfully found
+2021-03-08 16:10:09,515 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:10:09,515 users.py:94  ERROR User rando not found in database
+2021-03-08 16:10:09,517 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:10:09,518 users.py:105 ERROR User id ############################## is longer than 30
+2021-03-08 16:10:09,518 users.py:109 ERROR User name ############################## is longer than 30
+2021-03-08 16:10:09,518 users.py:113 ERROR User last name #################################################################################################### is longer than 100
+2021-03-08 16:13:27,615 main.py:28  INFO Creating a new UserCollection
+2021-03-08 16:13:27,692 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:13:27,692 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-08 16:13:27,782 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:13:27,782 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:13:27,785 main.py:87  INFO Saving collection in database
+2021-03-08 16:13:28,138 main.py:165 INFO Adding a new User
+2021-03-08 16:13:28,140 users.py:45  INFO User dave03 sucessfully added
+2021-03-08 16:13:28,140 main.py:165 INFO Adding a new User
+2021-03-08 16:13:28,142 users.py:43  ERROR User dave03 breaks database rule: E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }, full error: {'index': 0, 'code': 11000, 'keyPattern': {'user_id': 1}, 'keyValue': {'user_id': 'dave03'}, 'errmsg': 'E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }'}
+2021-03-08 16:13:28,142 main.py:177 INFO Updating an User
+2021-03-08 16:13:28,144 users.py:65  INFO User dave03 sucessfully modified
+2021-03-08 16:13:28,144 main.py:177 INFO Updating an User
+2021-03-08 16:13:28,146 users.py:61  ERROR User dave02 not found in database
+2021-03-08 16:13:28,146 main.py:204 INFO Searching for an User
+2021-03-08 16:13:28,148 users.py:96  INFO User dave03 sucessfully found
+2021-03-08 16:13:28,148 main.py:204 INFO Searching for an User
+2021-03-08 16:13:28,150 users.py:94  ERROR User dave02 not found in database
+2021-03-08 16:13:28,150 main.py:190 INFO Deleting an User
+2021-03-08 16:13:28,153 users.py:83  INFO User dave03 sucessfully deleted
+2021-03-08 16:13:28,153 main.py:190 INFO Deleting an User
+2021-03-08 16:13:28,156 users.py:78  ERROR User dave03 not found in database
+2021-03-08 16:13:28,156 main.py:165 INFO Adding a new User
+2021-03-08 16:13:28,158 users.py:45  INFO User dave03 sucessfully added
+2021-03-08 16:13:28,158 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:13:28,374 main.py:144 INFO Saving collection in database
+2021-03-08 16:13:31,466 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:13:31,471 user_status.py:45  INFO Status dave03_01 added to database
+2021-03-08 16:13:31,471 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:13:31,475 user_status.py:43  ERROR Status dave03_01 already exists in database
+2021-03-08 16:13:31,475 main.py:234 INFO Updating an UserStatus
+2021-03-08 16:13:31,478 user_status.py:62  INFO Status dave03_01 sucessfully modified
+2021-03-08 16:13:31,478 main.py:234 INFO Updating an UserStatus
+2021-03-08 16:13:31,479 user_status.py:57  ERROR Status dave03_02 not found database
+2021-03-08 16:13:31,480 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:13:31,481 user_status.py:90  INFO Status dave03_01 sucessfully found
+2021-03-08 16:13:31,482 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:13:31,484 user_status.py:88  ERROR Status dave03 not found database
+2021-03-08 16:13:41,167 main.py:28  INFO Creating a new UserCollection
+2021-03-08 16:13:41,234 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:13:41,234 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-08 16:13:41,323 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:13:41,323 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:13:41,326 main.py:87  INFO Saving collection in database
+2021-03-08 16:13:41,696 main.py:165 INFO Adding a new User
+2021-03-08 16:13:41,698 users.py:45  INFO User dave03 sucessfully added
+2021-03-08 16:13:41,698 main.py:165 INFO Adding a new User
+2021-03-08 16:13:41,700 users.py:43  ERROR User dave03 breaks database rule: E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }, full error: {'index': 0, 'code': 11000, 'keyPattern': {'user_id': 1}, 'keyValue': {'user_id': 'dave03'}, 'errmsg': 'E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }'}
+2021-03-08 16:13:41,700 main.py:177 INFO Updating an User
+2021-03-08 16:13:41,703 users.py:65  INFO User dave03 sucessfully modified
+2021-03-08 16:13:41,703 main.py:177 INFO Updating an User
+2021-03-08 16:13:41,705 users.py:61  ERROR User dave02 not found in database
+2021-03-08 16:13:41,705 main.py:204 INFO Searching for an User
+2021-03-08 16:13:41,706 users.py:96  INFO User dave03 sucessfully found
+2021-03-08 16:13:41,706 main.py:204 INFO Searching for an User
+2021-03-08 16:13:41,708 users.py:94  ERROR User dave02 not found in database
+2021-03-08 16:13:41,708 main.py:190 INFO Deleting an User
+2021-03-08 16:13:41,711 users.py:83  INFO User dave03 sucessfully deleted
+2021-03-08 16:13:41,712 main.py:190 INFO Deleting an User
+2021-03-08 16:13:41,713 users.py:78  ERROR User dave03 not found in database
+2021-03-08 16:13:41,713 main.py:165 INFO Adding a new User
+2021-03-08 16:13:41,715 users.py:45  INFO User dave03 sucessfully added
+2021-03-08 16:13:41,715 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:13:41,934 main.py:144 INFO Saving collection in database
+2021-03-08 16:13:45,080 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:13:45,085 user_status.py:45  INFO Status dave03_01 added to database
+2021-03-08 16:13:45,085 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:13:45,089 user_status.py:43  ERROR Status dave03_01 already exists in database
+2021-03-08 16:13:45,089 main.py:234 INFO Updating an UserStatus
+2021-03-08 16:13:45,091 user_status.py:62  INFO Status dave03_01 sucessfully modified
+2021-03-08 16:13:45,092 main.py:234 INFO Updating an UserStatus
+2021-03-08 16:13:45,093 user_status.py:57  ERROR Status dave03_02 not found database
+2021-03-08 16:13:45,094 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:13:45,095 user_status.py:90  INFO Status dave03_01 sucessfully found
+2021-03-08 16:13:45,096 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:13:45,097 user_status.py:88  ERROR Status dave03 not found database
+2021-03-08 16:15:17,112 main.py:28  INFO Creating a new UserCollection
+2021-03-08 16:15:17,179 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:15:17,179 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-08 16:15:17,280 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:15:17,281 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:15:17,283 main.py:87  INFO Saving collection in database
+2021-03-08 16:15:17,646 main.py:165 INFO Adding a new User
+2021-03-08 16:15:17,648 users.py:45  INFO User dave03 sucessfully added
+2021-03-08 16:15:17,648 main.py:165 INFO Adding a new User
+2021-03-08 16:15:17,651 users.py:43  ERROR User dave03 breaks database rule: E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }, full error: {'index': 0, 'code': 11000, 'keyPattern': {'user_id': 1}, 'keyValue': {'user_id': 'dave03'}, 'errmsg': 'E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }'}
+2021-03-08 16:15:17,651 main.py:177 INFO Updating an User
+2021-03-08 16:15:17,653 users.py:65  INFO User dave03 sucessfully modified
+2021-03-08 16:15:17,653 main.py:177 INFO Updating an User
+2021-03-08 16:15:17,655 users.py:61  ERROR User dave02 not found in database
+2021-03-08 16:15:17,656 main.py:204 INFO Searching for an User
+2021-03-08 16:15:17,658 users.py:96  INFO User dave03 sucessfully found
+2021-03-08 16:15:17,658 main.py:204 INFO Searching for an User
+2021-03-08 16:15:17,660 users.py:94  ERROR User dave02 not found in database
+2021-03-08 16:15:17,660 main.py:190 INFO Deleting an User
+2021-03-08 16:15:17,664 users.py:83  INFO User dave03 sucessfully deleted
+2021-03-08 16:15:17,664 main.py:190 INFO Deleting an User
+2021-03-08 16:15:17,666 users.py:78  ERROR User dave03 not found in database
+2021-03-08 16:15:17,666 main.py:165 INFO Adding a new User
+2021-03-08 16:15:17,668 users.py:45  INFO User dave03 sucessfully added
+2021-03-08 16:15:17,669 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:15:17,881 main.py:144 INFO Saving collection in database
+2021-03-08 16:15:21,065 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:15:21,069 user_status.py:45  INFO Status dave03_01 added to database
+2021-03-08 16:15:21,070 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:15:21,073 user_status.py:43  ERROR Status dave03_01 already exists in database
+2021-03-08 16:15:21,074 main.py:234 INFO Updating an UserStatus
+2021-03-08 16:15:21,076 user_status.py:62  INFO Status dave03_01 sucessfully modified
+2021-03-08 16:15:21,076 main.py:234 INFO Updating an UserStatus
+2021-03-08 16:15:21,078 user_status.py:57  ERROR Status dave03_02 not found database
+2021-03-08 16:15:21,078 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:15:21,080 user_status.py:90  INFO Status dave03_01 sucessfully found
+2021-03-08 16:15:21,081 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:15:21,083 user_status.py:88  ERROR Status dave03 not found database
+2021-03-08 16:17:33,392 main.py:28  INFO Creating a new UserCollection
+2021-03-08 16:17:33,458 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:17:33,459 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-08 16:17:33,548 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:17:33,549 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:17:33,551 main.py:87  INFO Saving collection in database
+2021-03-08 16:17:33,924 main.py:165 INFO Adding a new User
+2021-03-08 16:17:33,926 users.py:45  INFO User dave03 sucessfully added
+2021-03-08 16:17:33,926 main.py:165 INFO Adding a new User
+2021-03-08 16:17:33,928 users.py:43  ERROR User dave03 breaks database rule: E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }, full error: {'index': 0, 'code': 11000, 'keyPattern': {'user_id': 1}, 'keyValue': {'user_id': 'dave03'}, 'errmsg': 'E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }'}
+2021-03-08 16:17:33,928 main.py:177 INFO Updating an User
+2021-03-08 16:17:33,931 users.py:65  INFO User dave03 sucessfully modified
+2021-03-08 16:17:33,931 main.py:177 INFO Updating an User
+2021-03-08 16:17:33,933 users.py:61  ERROR User dave02 not found in database
+2021-03-08 16:17:33,934 main.py:204 INFO Searching for an User
+2021-03-08 16:17:33,936 users.py:96  INFO User dave03 sucessfully found
+2021-03-08 16:17:33,936 main.py:204 INFO Searching for an User
+2021-03-08 16:17:33,938 users.py:94  ERROR User dave02 not found in database
+2021-03-08 16:17:33,938 main.py:190 INFO Deleting an User
+2021-03-08 16:17:33,942 users.py:83  INFO User dave03 sucessfully deleted
+2021-03-08 16:17:33,942 main.py:190 INFO Deleting an User
+2021-03-08 16:17:33,944 users.py:78  ERROR User dave03 not found in database
+2021-03-08 16:17:33,944 main.py:165 INFO Adding a new User
+2021-03-08 16:17:33,946 users.py:45  INFO User dave03 sucessfully added
+2021-03-08 16:17:33,946 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:17:34,159 main.py:144 INFO Saving collection in database
+2021-03-08 16:17:37,278 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:17:37,283 user_status.py:45  INFO Status dave03_01 added to database
+2021-03-08 16:17:37,283 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:17:37,287 user_status.py:43  ERROR Status dave03_01 already exists in database
+2021-03-08 16:17:37,287 main.py:234 INFO Updating an UserStatus
+2021-03-08 16:17:37,289 user_status.py:62  INFO Status dave03_01 sucessfully modified
+2021-03-08 16:17:37,290 main.py:234 INFO Updating an UserStatus
+2021-03-08 16:17:37,292 user_status.py:57  ERROR Status dave03_02 not found database
+2021-03-08 16:17:37,292 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:17:37,294 user_status.py:90  INFO Status dave03_01 sucessfully found
+2021-03-08 16:23:21,879 main.py:28  INFO Creating a new UserCollection
+2021-03-08 16:23:21,889 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:23:21,890 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-08 16:23:21,895 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:23:32,991 main.py:204 INFO Searching for an User
+2021-03-08 16:23:32,997 users.py:96  INFO User dave03 sucessfully found
+2021-03-08 16:24:06,757 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:24:06,763 user_status.py:90  INFO Status dave03_01 sucessfully found
+2021-03-08 16:25:43,692 main.py:28  INFO Creating a new UserCollection
+2021-03-08 16:25:43,792 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:25:43,793 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-08 16:25:43,883 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:25:43,883 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:25:43,886 main.py:87  INFO Saving collection in database
+2021-03-08 16:25:44,216 main.py:165 INFO Adding a new User
+2021-03-08 16:25:44,218 users.py:45  INFO User dave03 sucessfully added
+2021-03-08 16:25:44,219 main.py:165 INFO Adding a new User
+2021-03-08 16:25:44,221 users.py:43  ERROR User dave03 breaks database rule: E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }, full error: {'index': 0, 'code': 11000, 'keyPattern': {'user_id': 1}, 'keyValue': {'user_id': 'dave03'}, 'errmsg': 'E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }'}
+2021-03-08 16:25:44,221 main.py:177 INFO Updating an User
+2021-03-08 16:25:44,224 users.py:65  INFO User dave03 sucessfully modified
+2021-03-08 16:25:44,224 main.py:177 INFO Updating an User
+2021-03-08 16:25:44,226 users.py:61  ERROR User dave02 not found in database
+2021-03-08 16:25:44,226 main.py:204 INFO Searching for an User
+2021-03-08 16:25:44,228 users.py:96  INFO User dave03 sucessfully found
+2021-03-08 16:25:44,228 main.py:204 INFO Searching for an User
+2021-03-08 16:25:44,230 users.py:94  ERROR User dave02 not found in database
+2021-03-08 16:25:44,230 main.py:190 INFO Deleting an User
+2021-03-08 16:25:44,234 users.py:83  INFO User dave03 sucessfully deleted
+2021-03-08 16:25:44,234 main.py:190 INFO Deleting an User
+2021-03-08 16:25:44,236 users.py:78  ERROR User dave03 not found in database
+2021-03-08 16:25:44,237 main.py:165 INFO Adding a new User
+2021-03-08 16:25:44,239 users.py:45  INFO User dave03 sucessfully added
+2021-03-08 16:25:44,239 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:25:44,455 main.py:144 INFO Saving collection in database
+2021-03-08 16:25:47,709 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:25:47,714 user_status.py:45  INFO Status dave03_01 added to database
+2021-03-08 16:25:47,714 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:25:47,718 user_status.py:43  ERROR Status dave03_01 already exists in database
+2021-03-08 16:25:47,718 main.py:234 INFO Updating an UserStatus
+2021-03-08 16:25:47,720 user_status.py:62  INFO Status dave03_01 sucessfully modified
+2021-03-08 16:25:47,721 main.py:234 INFO Updating an UserStatus
+2021-03-08 16:25:47,723 user_status.py:57  ERROR Status dave03_02 not found database
+2021-03-08 16:25:47,723 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:25:47,725 user_status.py:90  INFO Status dave03_01 sucessfully found
+2021-03-08 16:25:47,726 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:25:47,728 user_status.py:88  ERROR Status dave03 not found database
+2021-03-08 16:25:47,728 main.py:246 INFO Deleting an UserStatus
+2021-03-08 16:25:47,731 user_status.py:76  INFO Status dave03_01 sucessfully deleted
+2021-03-08 16:25:47,731 main.py:246 INFO Deleting an UserStatus
+2021-03-08 16:25:47,733 user_status.py:74  ERROR Status dave03_01 not found database
+2021-03-08 16:25:47,733 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:25:47,737 user_status.py:45  INFO Status dave03_01 added to database
+2021-03-08 16:25:47,737 main.py:190 INFO Deleting an User
+2021-03-08 16:25:47,786 users.py:83  INFO User dave03 sucessfully deleted
+2021-03-08 16:25:47,787 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:25:47,789 user_status.py:88  ERROR Status dave03_01 not found database
+2021-03-08 16:25:47,789 main.py:165 INFO Adding a new User
+2021-03-08 16:25:47,789 users.py:105 ERROR User id ############################## is longer than 30
+2021-03-08 16:25:47,789 main.py:165 INFO Adding a new User
+2021-03-08 16:25:47,790 users.py:109 ERROR User name ############################## is longer than 30
+2021-03-08 16:25:47,790 main.py:165 INFO Adding a new User
+2021-03-08 16:25:47,790 users.py:113 ERROR User last name #################################################################################################### is longer than 100
+2021-03-08 16:26:48,460 main.py:28  INFO Creating a new UserCollection
+2021-03-08 16:26:48,527 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:26:48,527 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-08 16:26:48,615 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:26:48,616 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:26:48,618 main.py:87  INFO Saving collection in database
+2021-03-08 16:26:48,994 main.py:165 INFO Adding a new User
+2021-03-08 16:26:48,997 users.py:45  INFO User dave03 sucessfully added
+2021-03-08 16:26:48,997 main.py:165 INFO Adding a new User
+2021-03-08 16:26:48,999 users.py:43  ERROR User dave03 breaks database rule: E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }, full error: {'index': 0, 'code': 11000, 'keyPattern': {'user_id': 1}, 'keyValue': {'user_id': 'dave03'}, 'errmsg': 'E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }'}
+2021-03-08 16:26:48,999 main.py:177 INFO Updating an User
+2021-03-08 16:26:49,001 users.py:65  INFO User dave03 sucessfully modified
+2021-03-08 16:26:49,002 main.py:177 INFO Updating an User
+2021-03-08 16:26:49,004 users.py:61  ERROR User dave02 not found in database
+2021-03-08 16:26:49,004 main.py:204 INFO Searching for an User
+2021-03-08 16:26:49,006 users.py:96  INFO User dave03 sucessfully found
+2021-03-08 16:26:49,006 main.py:204 INFO Searching for an User
+2021-03-08 16:26:49,008 users.py:94  ERROR User dave02 not found in database
+2021-03-08 16:26:49,008 main.py:190 INFO Deleting an User
+2021-03-08 16:26:49,012 users.py:83  INFO User dave03 sucessfully deleted
+2021-03-08 16:26:49,012 main.py:190 INFO Deleting an User
+2021-03-08 16:26:49,013 users.py:78  ERROR User dave03 not found in database
+2021-03-08 16:26:49,014 main.py:165 INFO Adding a new User
+2021-03-08 16:26:49,015 users.py:45  INFO User dave03 sucessfully added
+2021-03-08 16:26:49,016 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:26:49,229 main.py:144 INFO Saving collection in database
+2021-03-08 16:26:52,396 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:26:52,401 user_status.py:45  INFO Status dave03_01 added to database
+2021-03-08 16:26:52,401 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:26:52,405 user_status.py:43  ERROR Status dave03_01 already exists in database
+2021-03-08 16:26:52,405 main.py:234 INFO Updating an UserStatus
+2021-03-08 16:26:52,407 user_status.py:62  INFO Status dave03_01 sucessfully modified
+2021-03-08 16:26:52,408 main.py:234 INFO Updating an UserStatus
+2021-03-08 16:26:52,410 user_status.py:57  ERROR Status dave03_02 not found database
+2021-03-08 16:26:52,410 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:26:52,411 user_status.py:90  INFO Status dave03_01 sucessfully found
+2021-03-08 16:26:52,412 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:26:52,414 user_status.py:88  ERROR Status dave03 not found database
+2021-03-08 16:26:52,414 main.py:246 INFO Deleting an UserStatus
+2021-03-08 16:26:52,415 user_status.py:76  INFO Status dave03_01 sucessfully deleted
+2021-03-08 16:26:52,416 main.py:246 INFO Deleting an UserStatus
+2021-03-08 16:26:52,417 user_status.py:74  ERROR Status dave03_01 not found database
+2021-03-08 16:26:52,417 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:26:52,427 user_status.py:45  INFO Status dave03_01 added to database
+2021-03-08 16:26:52,427 main.py:190 INFO Deleting an User
+2021-03-08 16:26:52,476 users.py:83  INFO User dave03 sucessfully deleted
+2021-03-08 16:26:52,476 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:26:52,478 user_status.py:88  ERROR Status dave03_01 not found database
+2021-03-08 16:26:52,478 main.py:165 INFO Adding a new User
+2021-03-08 16:26:52,478 users.py:105 ERROR User id ############################## is longer than 30
+2021-03-08 16:26:52,478 main.py:165 INFO Adding a new User
+2021-03-08 16:26:52,478 users.py:109 ERROR User name ############################## is longer than 30
+2021-03-08 16:26:52,479 main.py:165 INFO Adding a new User
+2021-03-08 16:26:52,479 users.py:113 ERROR User last name #################################################################################################### is longer than 100
+2021-03-08 16:27:47,351 main.py:28  INFO Creating a new UserCollection
+2021-03-08 16:27:47,417 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:27:47,417 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-08 16:27:47,518 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:27:47,518 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 16:27:47,521 main.py:87  INFO Saving collection in database
+2021-03-08 16:27:47,893 main.py:165 INFO Adding a new User
+2021-03-08 16:27:47,895 users.py:45  INFO User dave03 sucessfully added
+2021-03-08 16:27:47,895 main.py:165 INFO Adding a new User
+2021-03-08 16:27:47,897 users.py:43  ERROR User dave03 breaks database rule: E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }, full error: {'index': 0, 'code': 11000, 'keyPattern': {'user_id': 1}, 'keyValue': {'user_id': 'dave03'}, 'errmsg': 'E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }'}
+2021-03-08 16:27:47,897 main.py:177 INFO Updating an User
+2021-03-08 16:27:47,900 users.py:65  INFO User dave03 sucessfully modified
+2021-03-08 16:27:47,900 main.py:177 INFO Updating an User
+2021-03-08 16:27:47,903 users.py:61  ERROR User dave02 not found in database
+2021-03-08 16:27:47,903 main.py:204 INFO Searching for an User
+2021-03-08 16:27:47,905 users.py:96  INFO User dave03 sucessfully found
+2021-03-08 16:27:47,905 main.py:204 INFO Searching for an User
+2021-03-08 16:27:47,907 users.py:94  ERROR User dave02 not found in database
+2021-03-08 16:27:47,908 main.py:190 INFO Deleting an User
+2021-03-08 16:27:47,911 users.py:83  INFO User dave03 sucessfully deleted
+2021-03-08 16:27:47,911 main.py:190 INFO Deleting an User
+2021-03-08 16:27:47,913 users.py:78  ERROR User dave03 not found in database
+2021-03-08 16:27:47,913 main.py:165 INFO Adding a new User
+2021-03-08 16:27:47,915 users.py:45  INFO User dave03 sucessfully added
+2021-03-08 16:27:47,916 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 16:27:48,134 main.py:144 INFO Saving collection in database
+2021-03-08 16:27:51,326 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:27:51,331 user_status.py:45  INFO Status dave03_01 added to database
+2021-03-08 16:27:51,332 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:27:51,335 user_status.py:43  ERROR Status dave03_01 already exists in database
+2021-03-08 16:27:51,335 main.py:234 INFO Updating an UserStatus
+2021-03-08 16:27:51,338 user_status.py:62  INFO Status dave03_01 sucessfully modified
+2021-03-08 16:27:51,338 main.py:234 INFO Updating an UserStatus
+2021-03-08 16:27:51,340 user_status.py:57  ERROR Status dave03_02 not found database
+2021-03-08 16:27:51,340 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:27:51,342 user_status.py:90  INFO Status dave03_01 sucessfully found
+2021-03-08 16:27:51,342 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:27:51,344 user_status.py:88  ERROR Status dave03 not found database
+2021-03-08 16:27:51,344 main.py:246 INFO Deleting an UserStatus
+2021-03-08 16:27:51,346 user_status.py:76  INFO Status dave03_01 sucessfully deleted
+2021-03-08 16:27:51,346 main.py:246 INFO Deleting an UserStatus
+2021-03-08 16:27:51,348 user_status.py:74  ERROR Status dave03_01 not found database
+2021-03-08 16:27:51,348 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:27:51,352 user_status.py:45  INFO Status dave03_01 added to database
+2021-03-08 16:27:51,352 main.py:190 INFO Deleting an User
+2021-03-08 16:27:51,400 users.py:83  INFO User dave03 sucessfully deleted
+2021-03-08 16:27:51,400 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:27:51,402 user_status.py:88  ERROR Status dave03_01 not found database
+2021-03-08 16:27:51,403 main.py:165 INFO Adding a new User
+2021-03-08 16:27:51,403 users.py:105 ERROR User id ############################## is longer than 30
+2021-03-08 16:27:51,403 main.py:165 INFO Adding a new User
+2021-03-08 16:27:51,403 users.py:109 ERROR User name ############################## is longer than 30
+2021-03-08 16:27:51,403 main.py:165 INFO Adding a new User
+2021-03-08 16:27:51,403 users.py:113 ERROR User last name #################################################################################################### is longer than 100
+2021-03-08 16:30:29,723 main.py:28  INFO Creating a new UserCollection
+2021-03-08 16:30:29,728 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:30:29,728 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-08 16:30:29,731 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:30:37,829 main.py:28  INFO Creating a new UserCollection
+2021-03-08 16:30:37,906 users.py:27  INFO New UserCollection instance created
+2021-03-08 16:30:37,906 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-08 16:30:38,007 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 16:31:06,111 main.py:165 INFO Adding a new User
+2021-03-08 16:31:06,115 users.py:45  INFO User Dave03 sucessfully added
+2021-03-08 16:31:31,591 main.py:165 INFO Adding a new User
+2021-03-08 16:31:31,593 users.py:43  ERROR User Dave03 breaks database rule: E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "Dave03" }, full error: {'index': 0, 'code': 11000, 'keyPattern': {'user_id': 1}, 'keyValue': {'user_id': 'Dave03'}, 'errmsg': 'E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "Dave03" }'}
+2021-03-08 16:31:58,982 main.py:177 INFO Updating an User
+2021-03-08 16:31:58,985 users.py:65  INFO User Dave03 sucessfully modified
+2021-03-08 16:32:07,351 main.py:204 INFO Searching for an User
+2021-03-08 16:32:07,353 users.py:96  INFO User Dave03 sucessfully found
+2021-03-08 16:32:24,654 main.py:177 INFO Updating an User
+2021-03-08 16:32:24,656 users.py:61  ERROR User dave02 not found in database
+2021-03-08 16:32:29,046 main.py:204 INFO Searching for an User
+2021-03-08 16:32:29,048 users.py:94  ERROR User dafv not found in database
+2021-03-08 16:32:52,598 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:32:52,618 user_status.py:45  INFO Status Dave03_01 added to database
+2021-03-08 16:33:15,069 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:33:15,073 user_status.py:43  ERROR Status Dave03_01 already exists in database
+2021-03-08 16:33:31,835 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:33:31,838 user_status.py:39  ERROR User asdf does not exist
+2021-03-08 16:33:39,343 main.py:222 INFO Adding an UserStatus
+2021-03-08 16:33:39,346 user_status.py:39  ERROR User ad does not exist
+2021-03-08 16:37:51,663 main.py:234 INFO Updating an UserStatus
+2021-03-08 16:37:51,665 user_status.py:57  ERROR Status Dave03_02 not found database
+2021-03-08 16:38:08,006 main.py:234 INFO Updating an UserStatus
+2021-03-08 16:38:08,009 user_status.py:62  INFO Status Dave03_01 sucessfully modified
+2021-03-08 16:38:16,983 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:38:16,986 user_status.py:90  INFO Status Dave03_01 sucessfully found
+2021-03-08 16:38:29,181 main.py:259 INFO Searching for an UserStatus
+2021-03-08 16:38:29,183 user_status.py:88  ERROR Status Dave03 not found database
+2021-03-08 17:55:52,093 main.py:28  INFO Creating a new UserCollection
+2021-03-08 17:55:52,094 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-08 17:55:52,096 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:55:52,096 main.py:87  INFO Saving collection in database
+2021-03-08 17:55:52,097 main.py:60  ERROR User files must be in csv format
+2021-03-08 17:55:52,099 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:55:52,099 main.py:73  ERROR Users need four parameters
+2021-03-08 17:55:52,099 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:55:52,099 main.py:73  ERROR Users need four parameters
+2021-03-08 17:55:52,099 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:55:52,099 main.py:73  ERROR Users need four parameters
+2021-03-08 17:55:52,099 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:55:52,100 main.py:73  ERROR Users need four parameters
+2021-03-08 17:55:52,100 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:55:52,100 main.py:73  ERROR Users need four parameters
+2021-03-08 17:55:52,101 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:55:52,101 main.py:78  ERROR Users can not have empty fields
+2021-03-08 17:55:52,101 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:55:52,102 main.py:78  ERROR Users can not have empty fields
+2021-03-08 17:55:52,102 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:55:52,102 main.py:78  ERROR Users can not have empty fields
+2021-03-08 17:55:52,102 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:55:52,102 main.py:78  ERROR Users can not have empty fields
+2021-03-08 17:55:52,103 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:55:52,103 main.py:68  ERROR accounts.csv does not contain data
+2021-03-08 17:55:52,105 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:55:52,105 main.py:144 INFO Saving collection in database
+2021-03-08 17:55:52,107 main.py:117 ERROR UserStatus files must be in csv format
+2021-03-08 17:55:52,108 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:55:52,108 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 17:55:52,109 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:55:52,109 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 17:55:52,109 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:55:52,109 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 17:55:52,109 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:55:52,109 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 17:55:52,109 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:55:52,109 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 17:55:52,111 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:55:52,111 main.py:135 ERROR UserStatus can not have empty fields
+2021-03-08 17:55:52,111 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:55:52,111 main.py:135 ERROR UserStatus can not have empty fields
+2021-03-08 17:55:52,111 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:55:52,111 main.py:135 ERROR UserStatus can not have empty fields
+2021-03-08 17:55:52,113 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:55:52,113 main.py:125 ERROR status_updates.csv does not contain data
+2021-03-08 17:55:52,114 main.py:165 INFO Adding a new User
+2021-03-08 17:55:52,115 main.py:177 INFO Updating an User
+2021-03-08 17:55:52,116 main.py:190 INFO Deleting an User
+2021-03-08 17:55:52,117 main.py:204 INFO Searching for an User
+2021-03-08 17:55:52,119 main.py:204 INFO Searching for an User
+2021-03-08 17:55:52,120 main.py:222 INFO Adding an UserStatus
+2021-03-08 17:55:52,121 main.py:234 INFO Updating an UserStatus
+2021-03-08 17:55:52,122 main.py:246 INFO Deleting an UserStatus
+2021-03-08 17:55:52,124 main.py:259 INFO Searching for an UserStatus
+2021-03-08 17:55:52,125 main.py:259 INFO Searching for an UserStatus
+2021-03-08 17:55:52,127 main.py:270 INFO Searching for matching UserStatuses
+2021-03-08 17:55:52,133 main.py:279 INFO Searching for UserStatuses matching string
+2021-03-08 17:55:52,144 main.py:28  INFO Creating a new UserCollection
+2021-03-08 17:55:52,214 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:55:52,214 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-08 17:55:52,315 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:55:52,315 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:55:52,315 main.py:68  ERROR accounts.csv does not contain data
+2021-03-08 17:55:52,316 main.py:165 INFO Adding a new User
+2021-03-08 17:55:52,657 users.py:45  INFO User dave03 sucessfully added
+2021-03-08 17:55:52,657 main.py:165 INFO Adding a new User
+2021-03-08 17:55:52,659 users.py:43  ERROR User dave03 breaks database rule: E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }, full error: {'index': 0, 'code': 11000, 'keyPattern': {'user_id': 1}, 'keyValue': {'user_id': 'dave03'}, 'errmsg': 'E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }'}
+2021-03-08 17:55:52,659 main.py:177 INFO Updating an User
+2021-03-08 17:55:52,662 users.py:65  INFO User dave03 sucessfully modified
+2021-03-08 17:55:52,663 main.py:177 INFO Updating an User
+2021-03-08 17:55:52,664 users.py:61  ERROR User dave02 not found in database
+2021-03-08 17:55:52,665 main.py:204 INFO Searching for an User
+2021-03-08 17:55:52,667 users.py:96  INFO User dave03 sucessfully found
+2021-03-08 17:55:52,667 main.py:204 INFO Searching for an User
+2021-03-08 17:55:52,669 users.py:94  ERROR User dave02 not found in database
+2021-03-08 17:55:52,712 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:55:52,715 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:55:52,716 user_status.py:45  INFO Status rando_001 added to database
+2021-03-08 17:55:52,717 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:55:52,718 user_status.py:43  ERROR Status rando_001 already exists in database
+2021-03-08 17:55:52,720 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:55:52,721 user_status.py:39  ERROR User rando does not exist
+2021-03-08 17:55:52,723 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:55:52,723 user_status.py:62  INFO Status rando_001 sucessfully modified
+2021-03-08 17:55:52,725 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:55:52,725 user_status.py:57  ERROR Status rando_001 not found database
+2021-03-08 17:55:52,727 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:55:52,728 user_status.py:76  INFO Status rando_001 sucessfully deleted
+2021-03-08 17:55:52,730 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:55:52,730 user_status.py:74  ERROR Status rando_001 not found database
+2021-03-08 17:55:52,732 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:55:52,733 user_status.py:90  INFO Status rando_001 sucessfully found
+2021-03-08 17:55:52,734 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:55:52,735 user_status.py:88  ERROR Status rando_001 not found database
+2021-03-08 17:55:52,737 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:55:52,738 user_status.py:99  INFO Found statuses posted by rando
+2021-03-08 17:55:52,739 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:55:52,740 user_status.py:107 INFO Found statuses matching best
+2021-03-08 17:55:52,742 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:55:52,744 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:55:52,745 users.py:45  INFO User rando sucessfully added
+2021-03-08 17:55:52,746 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:55:52,747 users.py:43  ERROR User rando breaks database rule: ERR_MSG
+2021-03-08 17:55:52,748 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:55:52,749 users.py:105 ERROR User id ############################## is longer than 30
+2021-03-08 17:55:52,751 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:55:52,751 users.py:65  INFO User rando sucessfully modified
+2021-03-08 17:55:52,753 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:55:52,753 users.py:61  ERROR User rando not found in database
+2021-03-08 17:55:52,755 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:55:52,755 users.py:105 ERROR User id ############################## is longer than 30
+2021-03-08 17:55:52,757 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:55:52,758 users.py:83  INFO User rando sucessfully deleted
+2021-03-08 17:55:52,760 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:55:52,760 users.py:78  ERROR User rando not found in database
+2021-03-08 17:55:52,762 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:55:52,762 users.py:96  INFO User rando sucessfully found
+2021-03-08 17:55:52,764 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:55:52,764 users.py:94  ERROR User rando not found in database
+2021-03-08 17:55:52,766 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:55:52,767 users.py:105 ERROR User id ############################## is longer than 30
+2021-03-08 17:55:52,767 users.py:109 ERROR User name ############################## is longer than 30
+2021-03-08 17:55:52,767 users.py:113 ERROR User last name #################################################################################################### is longer than 100
+2021-03-08 17:57:29,857 main.py:28  INFO Creating a new UserCollection
+2021-03-08 17:57:29,858 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-08 17:57:29,859 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:57:29,860 main.py:87  INFO Saving collection in database
+2021-03-08 17:57:29,861 main.py:60  ERROR User files must be in csv format
+2021-03-08 17:57:29,863 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:57:29,863 main.py:73  ERROR Users need four parameters
+2021-03-08 17:57:29,863 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:57:29,863 main.py:73  ERROR Users need four parameters
+2021-03-08 17:57:29,863 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:57:29,863 main.py:73  ERROR Users need four parameters
+2021-03-08 17:57:29,863 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:57:29,863 main.py:73  ERROR Users need four parameters
+2021-03-08 17:57:29,864 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:57:29,864 main.py:73  ERROR Users need four parameters
+2021-03-08 17:57:29,865 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:57:29,865 main.py:78  ERROR Users can not have empty fields
+2021-03-08 17:57:29,865 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:57:29,865 main.py:78  ERROR Users can not have empty fields
+2021-03-08 17:57:29,865 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:57:29,866 main.py:78  ERROR Users can not have empty fields
+2021-03-08 17:57:29,866 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:57:29,866 main.py:78  ERROR Users can not have empty fields
+2021-03-08 17:57:29,867 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:57:29,867 main.py:68  ERROR accounts.csv does not contain data
+2021-03-08 17:57:29,869 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:57:29,869 main.py:144 INFO Saving collection in database
+2021-03-08 17:57:29,870 main.py:117 ERROR UserStatus files must be in csv format
+2021-03-08 17:57:29,872 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:57:29,872 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 17:57:29,872 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:57:29,872 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 17:57:29,872 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:57:29,873 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 17:57:29,873 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:57:29,873 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 17:57:29,873 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:57:29,873 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 17:57:29,874 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:57:29,874 main.py:135 ERROR UserStatus can not have empty fields
+2021-03-08 17:57:29,875 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:57:29,875 main.py:135 ERROR UserStatus can not have empty fields
+2021-03-08 17:57:29,875 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:57:29,875 main.py:135 ERROR UserStatus can not have empty fields
+2021-03-08 17:57:29,876 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:57:29,876 main.py:125 ERROR status_updates.csv does not contain data
+2021-03-08 17:57:29,878 main.py:165 INFO Adding a new User
+2021-03-08 17:57:29,879 main.py:177 INFO Updating an User
+2021-03-08 17:57:29,880 main.py:190 INFO Deleting an User
+2021-03-08 17:57:29,881 main.py:204 INFO Searching for an User
+2021-03-08 17:57:29,882 main.py:204 INFO Searching for an User
+2021-03-08 17:57:29,883 main.py:222 INFO Adding an UserStatus
+2021-03-08 17:57:29,884 main.py:234 INFO Updating an UserStatus
+2021-03-08 17:57:29,886 main.py:246 INFO Deleting an UserStatus
+2021-03-08 17:57:29,887 main.py:259 INFO Searching for an UserStatus
+2021-03-08 17:57:29,888 main.py:259 INFO Searching for an UserStatus
+2021-03-08 17:57:29,890 main.py:270 INFO Searching for matching UserStatuses
+2021-03-08 17:57:29,896 main.py:279 INFO Searching for UserStatuses matching string
+2021-03-08 17:57:29,979 main.py:28  INFO Creating a new UserCollection
+2021-03-08 17:57:30,057 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:57:30,057 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-08 17:57:30,146 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:57:30,147 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:57:30,147 main.py:68  ERROR accounts.csv does not contain data
+2021-03-08 17:57:30,147 main.py:165 INFO Adding a new User
+2021-03-08 17:57:30,495 users.py:45  INFO User dave03 sucessfully added
+2021-03-08 17:57:30,495 main.py:165 INFO Adding a new User
+2021-03-08 17:57:30,497 users.py:43  ERROR User dave03 breaks database rule: E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }, full error: {'index': 0, 'code': 11000, 'keyPattern': {'user_id': 1}, 'keyValue': {'user_id': 'dave03'}, 'errmsg': 'E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }'}
+2021-03-08 17:57:30,498 main.py:177 INFO Updating an User
+2021-03-08 17:57:30,501 users.py:65  INFO User dave03 sucessfully modified
+2021-03-08 17:57:30,501 main.py:177 INFO Updating an User
+2021-03-08 17:57:30,503 users.py:61  ERROR User dave02 not found in database
+2021-03-08 17:57:30,504 main.py:204 INFO Searching for an User
+2021-03-08 17:57:30,506 users.py:96  INFO User dave03 sucessfully found
+2021-03-08 17:57:30,506 main.py:204 INFO Searching for an User
+2021-03-08 17:57:30,508 users.py:94  ERROR User dave02 not found in database
+2021-03-08 17:57:30,508 main.py:190 INFO Deleting an User
+2021-03-08 17:57:30,512 users.py:83  INFO User dave03 sucessfully deleted
+2021-03-08 17:57:30,513 main.py:190 INFO Deleting an User
+2021-03-08 17:57:30,515 users.py:78  ERROR User dave03 not found in database
+2021-03-08 17:57:30,515 main.py:165 INFO Adding a new User
+2021-03-08 17:57:30,517 users.py:45  INFO User dave03 sucessfully added
+2021-03-08 17:57:30,517 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:57:30,517 main.py:125 ERROR status_updates.csv does not contain data
+2021-03-08 17:57:30,517 main.py:222 INFO Adding an UserStatus
+2021-03-08 17:57:30,573 user_status.py:45  INFO Status dave03_01 added to database
+2021-03-08 17:57:30,573 main.py:222 INFO Adding an UserStatus
+2021-03-08 17:57:30,577 user_status.py:43  ERROR Status dave03_01 already exists in database
+2021-03-08 17:57:30,578 main.py:234 INFO Updating an UserStatus
+2021-03-08 17:57:30,580 user_status.py:62  INFO Status dave03_01 sucessfully modified
+2021-03-08 17:57:30,580 main.py:234 INFO Updating an UserStatus
+2021-03-08 17:57:30,582 user_status.py:57  ERROR Status dave03_02 not found database
+2021-03-08 17:57:30,582 main.py:259 INFO Searching for an UserStatus
+2021-03-08 17:57:30,585 user_status.py:90  INFO Status dave03_01 sucessfully found
+2021-03-08 17:57:30,585 main.py:259 INFO Searching for an UserStatus
+2021-03-08 17:57:30,587 user_status.py:88  ERROR Status dave03 not found database
+2021-03-08 17:57:30,587 main.py:246 INFO Deleting an UserStatus
+2021-03-08 17:57:30,589 user_status.py:76  INFO Status dave03_01 sucessfully deleted
+2021-03-08 17:57:30,589 main.py:246 INFO Deleting an UserStatus
+2021-03-08 17:57:30,591 user_status.py:74  ERROR Status dave03_01 not found database
+2021-03-08 17:57:30,591 main.py:222 INFO Adding an UserStatus
+2021-03-08 17:57:30,595 user_status.py:45  INFO Status dave03_01 added to database
+2021-03-08 17:57:30,595 main.py:190 INFO Deleting an User
+2021-03-08 17:57:30,599 users.py:83  INFO User dave03 sucessfully deleted
+2021-03-08 17:57:30,599 main.py:259 INFO Searching for an UserStatus
+2021-03-08 17:57:30,601 user_status.py:88  ERROR Status dave03_01 not found database
+2021-03-08 17:57:30,645 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:57:30,647 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:57:30,648 user_status.py:45  INFO Status rando_001 added to database
+2021-03-08 17:57:30,650 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:57:30,651 user_status.py:43  ERROR Status rando_001 already exists in database
+2021-03-08 17:57:30,653 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:57:30,654 user_status.py:39  ERROR User rando does not exist
+2021-03-08 17:57:30,655 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:57:30,656 user_status.py:62  INFO Status rando_001 sucessfully modified
+2021-03-08 17:57:30,658 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:57:30,659 user_status.py:57  ERROR Status rando_001 not found database
+2021-03-08 17:57:30,660 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:57:30,661 user_status.py:76  INFO Status rando_001 sucessfully deleted
+2021-03-08 17:57:30,663 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:57:30,663 user_status.py:74  ERROR Status rando_001 not found database
+2021-03-08 17:57:30,665 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:57:30,665 user_status.py:90  INFO Status rando_001 sucessfully found
+2021-03-08 17:57:30,668 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:57:30,668 user_status.py:88  ERROR Status rando_001 not found database
+2021-03-08 17:57:30,670 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:57:30,670 user_status.py:99  INFO Found statuses posted by rando
+2021-03-08 17:57:30,672 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:57:30,672 user_status.py:107 INFO Found statuses matching best
+2021-03-08 17:57:30,675 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:57:30,677 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:57:30,677 users.py:45  INFO User rando sucessfully added
+2021-03-08 17:57:30,679 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:57:30,679 users.py:43  ERROR User rando breaks database rule: ERR_MSG
+2021-03-08 17:57:30,681 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:57:30,682 users.py:105 ERROR User id ############################## is longer than 30
+2021-03-08 17:57:30,683 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:57:30,684 users.py:65  INFO User rando sucessfully modified
+2021-03-08 17:57:30,685 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:57:30,686 users.py:61  ERROR User rando not found in database
+2021-03-08 17:57:30,687 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:57:30,688 users.py:105 ERROR User id ############################## is longer than 30
+2021-03-08 17:57:30,690 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:57:30,691 users.py:83  INFO User rando sucessfully deleted
+2021-03-08 17:57:30,692 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:57:30,693 users.py:78  ERROR User rando not found in database
+2021-03-08 17:57:30,694 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:57:30,695 users.py:96  INFO User rando sucessfully found
+2021-03-08 17:57:30,697 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:57:30,697 users.py:94  ERROR User rando not found in database
+2021-03-08 17:57:30,699 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:57:30,699 users.py:105 ERROR User id ############################## is longer than 30
+2021-03-08 17:57:30,699 users.py:109 ERROR User name ############################## is longer than 30
+2021-03-08 17:57:30,699 users.py:113 ERROR User last name #################################################################################################### is longer than 100
+2021-03-08 17:58:08,216 main.py:28  INFO Creating a new UserCollection
+2021-03-08 17:58:08,217 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-08 17:58:08,219 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:58:08,219 main.py:87  INFO Saving collection in database
+2021-03-08 17:58:08,221 main.py:60  ERROR User files must be in csv format
+2021-03-08 17:58:08,222 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:58:08,222 main.py:73  ERROR Users need four parameters
+2021-03-08 17:58:08,222 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:58:08,223 main.py:73  ERROR Users need four parameters
+2021-03-08 17:58:08,223 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:58:08,223 main.py:73  ERROR Users need four parameters
+2021-03-08 17:58:08,223 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:58:08,223 main.py:73  ERROR Users need four parameters
+2021-03-08 17:58:08,223 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:58:08,223 main.py:73  ERROR Users need four parameters
+2021-03-08 17:58:08,225 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:58:08,225 main.py:78  ERROR Users can not have empty fields
+2021-03-08 17:58:08,225 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:58:08,225 main.py:78  ERROR Users can not have empty fields
+2021-03-08 17:58:08,225 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:58:08,225 main.py:78  ERROR Users can not have empty fields
+2021-03-08 17:58:08,225 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:58:08,225 main.py:78  ERROR Users can not have empty fields
+2021-03-08 17:58:08,227 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:58:08,227 main.py:68  ERROR accounts.csv does not contain data
+2021-03-08 17:58:08,228 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:58:08,228 main.py:144 INFO Saving collection in database
+2021-03-08 17:58:08,230 main.py:117 ERROR UserStatus files must be in csv format
+2021-03-08 17:58:08,232 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:58:08,232 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 17:58:08,232 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:58:08,232 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 17:58:08,232 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:58:08,232 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 17:58:08,232 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:58:08,232 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 17:58:08,233 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:58:08,233 main.py:130 ERROR UserStatus needs three parameters
+2021-03-08 17:58:08,234 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:58:08,234 main.py:135 ERROR UserStatus can not have empty fields
+2021-03-08 17:58:08,234 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:58:08,234 main.py:135 ERROR UserStatus can not have empty fields
+2021-03-08 17:58:08,235 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:58:08,235 main.py:135 ERROR UserStatus can not have empty fields
+2021-03-08 17:58:08,236 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:58:08,236 main.py:125 ERROR status_updates.csv does not contain data
+2021-03-08 17:58:08,237 main.py:165 INFO Adding a new User
+2021-03-08 17:58:08,238 main.py:177 INFO Updating an User
+2021-03-08 17:58:08,240 main.py:190 INFO Deleting an User
+2021-03-08 17:58:08,241 main.py:204 INFO Searching for an User
+2021-03-08 17:58:08,242 main.py:204 INFO Searching for an User
+2021-03-08 17:58:08,243 main.py:222 INFO Adding an UserStatus
+2021-03-08 17:58:08,244 main.py:234 INFO Updating an UserStatus
+2021-03-08 17:58:08,245 main.py:246 INFO Deleting an UserStatus
+2021-03-08 17:58:08,247 main.py:259 INFO Searching for an UserStatus
+2021-03-08 17:58:08,248 main.py:259 INFO Searching for an UserStatus
+2021-03-08 17:58:08,250 main.py:270 INFO Searching for matching UserStatuses
+2021-03-08 17:58:08,257 main.py:279 INFO Searching for UserStatuses matching string
+2021-03-08 17:58:08,338 main.py:28  INFO Creating a new UserCollection
+2021-03-08 17:58:08,417 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:58:08,418 main.py:37  INFO Createing a new UserStatusCollection
+2021-03-08 17:58:08,507 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:58:08,507 main.py:63  INFO Loading users from accounts.csv
+2021-03-08 17:58:08,507 main.py:68  ERROR accounts.csv does not contain data
+2021-03-08 17:58:08,507 main.py:165 INFO Adding a new User
+2021-03-08 17:58:08,848 users.py:45  INFO User dave03 sucessfully added
+2021-03-08 17:58:08,848 main.py:165 INFO Adding a new User
+2021-03-08 17:58:08,850 users.py:43  ERROR User dave03 breaks database rule: E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }, full error: {'index': 0, 'code': 11000, 'keyPattern': {'user_id': 1}, 'keyValue': {'user_id': 'dave03'}, 'errmsg': 'E11000 duplicate key error collection: social.UserTable index: user_id_1 dup key: { user_id: "dave03" }'}
+2021-03-08 17:58:08,850 main.py:177 INFO Updating an User
+2021-03-08 17:58:08,853 users.py:65  INFO User dave03 sucessfully modified
+2021-03-08 17:58:08,853 main.py:177 INFO Updating an User
+2021-03-08 17:58:08,855 users.py:61  ERROR User dave02 not found in database
+2021-03-08 17:58:08,855 main.py:204 INFO Searching for an User
+2021-03-08 17:58:08,857 users.py:96  INFO User dave03 sucessfully found
+2021-03-08 17:58:08,857 main.py:204 INFO Searching for an User
+2021-03-08 17:58:08,859 users.py:94  ERROR User dave02 not found in database
+2021-03-08 17:58:08,859 main.py:190 INFO Deleting an User
+2021-03-08 17:58:08,862 users.py:83  INFO User dave03 sucessfully deleted
+2021-03-08 17:58:08,862 main.py:190 INFO Deleting an User
+2021-03-08 17:58:08,864 users.py:78  ERROR User dave03 not found in database
+2021-03-08 17:58:08,864 main.py:165 INFO Adding a new User
+2021-03-08 17:58:08,866 users.py:45  INFO User dave03 sucessfully added
+2021-03-08 17:58:08,866 main.py:120 INFO Saving statuses to status_updates.csv
+2021-03-08 17:58:08,866 main.py:125 ERROR status_updates.csv does not contain data
+2021-03-08 17:58:08,866 main.py:222 INFO Adding an UserStatus
+2021-03-08 17:58:08,924 user_status.py:45  INFO Status dave03_01 added to database
+2021-03-08 17:58:08,925 main.py:222 INFO Adding an UserStatus
+2021-03-08 17:58:08,928 user_status.py:43  ERROR Status dave03_01 already exists in database
+2021-03-08 17:58:08,929 main.py:234 INFO Updating an UserStatus
+2021-03-08 17:58:08,931 user_status.py:62  INFO Status dave03_01 sucessfully modified
+2021-03-08 17:58:08,931 main.py:234 INFO Updating an UserStatus
+2021-03-08 17:58:08,933 user_status.py:57  ERROR Status dave03_02 not found database
+2021-03-08 17:58:08,933 main.py:259 INFO Searching for an UserStatus
+2021-03-08 17:58:08,935 user_status.py:90  INFO Status dave03_01 sucessfully found
+2021-03-08 17:58:08,935 main.py:259 INFO Searching for an UserStatus
+2021-03-08 17:58:08,937 user_status.py:88  ERROR Status dave03 not found database
+2021-03-08 17:58:08,937 main.py:246 INFO Deleting an UserStatus
+2021-03-08 17:58:08,939 user_status.py:76  INFO Status dave03_01 sucessfully deleted
+2021-03-08 17:58:08,939 main.py:246 INFO Deleting an UserStatus
+2021-03-08 17:58:08,941 user_status.py:74  ERROR Status dave03_01 not found database
+2021-03-08 17:58:08,941 main.py:222 INFO Adding an UserStatus
+2021-03-08 17:58:08,944 user_status.py:45  INFO Status dave03_01 added to database
+2021-03-08 17:58:08,944 main.py:190 INFO Deleting an User
+2021-03-08 17:58:08,948 users.py:83  INFO User dave03 sucessfully deleted
+2021-03-08 17:58:08,948 main.py:259 INFO Searching for an UserStatus
+2021-03-08 17:58:08,950 user_status.py:88  ERROR Status dave03_01 not found database
+2021-03-08 17:58:08,950 main.py:165 INFO Adding a new User
+2021-03-08 17:58:08,950 users.py:105 ERROR User id ############################## is longer than 30
+2021-03-08 17:58:08,951 main.py:165 INFO Adding a new User
+2021-03-08 17:58:08,951 users.py:109 ERROR User name ############################## is longer than 30
+2021-03-08 17:58:08,951 main.py:165 INFO Adding a new User
+2021-03-08 17:58:08,951 users.py:113 ERROR User last name #################################################################################################### is longer than 100
+2021-03-08 17:58:08,953 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:58:08,956 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:58:08,958 user_status.py:45  INFO Status rando_001 added to database
+2021-03-08 17:58:08,960 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:58:08,961 user_status.py:43  ERROR Status rando_001 already exists in database
+2021-03-08 17:58:08,963 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:58:08,963 user_status.py:39  ERROR User rando does not exist
+2021-03-08 17:58:08,965 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:58:08,966 user_status.py:62  INFO Status rando_001 sucessfully modified
+2021-03-08 17:58:08,967 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:58:08,968 user_status.py:57  ERROR Status rando_001 not found database
+2021-03-08 17:58:08,970 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:58:08,971 user_status.py:76  INFO Status rando_001 sucessfully deleted
+2021-03-08 17:58:08,972 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:58:08,973 user_status.py:74  ERROR Status rando_001 not found database
+2021-03-08 17:58:08,974 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:58:08,975 user_status.py:90  INFO Status rando_001 sucessfully found
+2021-03-08 17:58:08,977 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:58:08,977 user_status.py:88  ERROR Status rando_001 not found database
+2021-03-08 17:58:08,979 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:58:08,980 user_status.py:99  INFO Found statuses posted by rando
+2021-03-08 17:58:08,981 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-08 17:58:08,982 user_status.py:107 INFO Found statuses matching best
+2021-03-08 17:58:08,984 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:58:08,986 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:58:08,987 users.py:45  INFO User rando sucessfully added
+2021-03-08 17:58:08,989 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:58:08,989 users.py:43  ERROR User rando breaks database rule: ERR_MSG
+2021-03-08 17:58:08,991 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:58:08,991 users.py:105 ERROR User id ############################## is longer than 30
+2021-03-08 17:58:08,993 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:58:08,993 users.py:65  INFO User rando sucessfully modified
+2021-03-08 17:58:08,995 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:58:08,996 users.py:61  ERROR User rando not found in database
+2021-03-08 17:58:08,997 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:58:08,998 users.py:105 ERROR User id ############################## is longer than 30
+2021-03-08 17:58:08,999 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:58:09,000 users.py:83  INFO User rando sucessfully deleted
+2021-03-08 17:58:09,002 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:58:09,003 users.py:78  ERROR User rando not found in database
+2021-03-08 17:58:09,004 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:58:09,005 users.py:96  INFO User rando sucessfully found
+2021-03-08 17:58:09,007 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:58:09,007 users.py:94  ERROR User rando not found in database
+2021-03-08 17:58:09,009 users.py:27  INFO New UserCollection instance created
+2021-03-08 17:58:09,009 users.py:105 ERROR User id ############################## is longer than 30
+2021-03-08 17:58:09,009 users.py:109 ERROR User name ############################## is longer than 30
+2021-03-08 17:58:09,009 users.py:113 ERROR User last name #################################################################################################### is longer than 100

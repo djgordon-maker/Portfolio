@@ -1,0 +1,77 @@
+2021-03-29 15:41:56,220 main.py:30  INFO Creating a new UserCollection
+2021-03-29 15:41:56,544 users.py:27  INFO New UserCollection instance created
+2021-03-29 15:42:53,409 main.py:59  ERROR User files must be in csv format
+2021-03-29 15:43:34,898 main.py:64  INFO Loading users from accounts.csv
+2021-03-29 16:17:47,382 main.py:64  INFO Loading users from accounts.csv
+2021-03-29 16:18:08,072 main.py:30  INFO Creating a new UserCollection
+2021-03-29 16:18:08,077 users.py:27  INFO New UserCollection instance created
+2021-03-29 16:18:16,771 main.py:64  INFO Loading users from accounts.csv
+2021-03-29 16:25:51,648 main.py:30  INFO Creating a new UserCollection
+2021-03-29 16:25:51,652 users.py:27  INFO New UserCollection instance created
+2021-03-29 16:25:54,044 main.py:64  INFO Loading users from accounts.csv
+2021-03-29 17:18:56,256 main.py:30  INFO Creating a new UserCollection
+2021-03-29 17:18:56,268 users.py:27  INFO New UserCollection instance created
+2021-03-29 17:19:16,218 main.py:30  INFO Creating a new UserCollection
+2021-03-29 17:19:16,222 users.py:27  INFO New UserCollection instance created
+2021-03-29 17:19:37,623 main.py:64  INFO Loading users from accounts.csv
+2021-03-29 17:23:56,339 main.py:64  INFO Loading users from accounts.csv
+2021-03-29 17:32:42,808 main.py:64  INFO Loading users from accounts.csv
+2021-03-29 17:33:02,757 main.py:30  INFO Creating a new UserCollection
+2021-03-29 17:33:02,876 users.py:27  INFO New UserCollection instance created
+2021-03-29 17:33:08,593 main.py:64  INFO Loading users from accounts.csv
+2021-03-29 17:41:01,999 main.py:64  INFO Loading users from accounts.csv
+2021-03-29 17:41:16,938 main.py:30  INFO Creating a new UserCollection
+2021-03-29 17:41:16,942 users.py:27  INFO New UserCollection instance created
+2021-03-29 17:41:24,785 main.py:64  INFO Loading users from accounts.csv
+2021-03-29 17:44:25,883 main.py:30  INFO Creating a new UserCollection
+2021-03-29 17:44:25,887 users.py:27  INFO New UserCollection instance created
+2021-03-29 17:44:27,708 main.py:64  INFO Loading users from accounts.csv
+2021-03-29 17:44:46,172 main.py:30  INFO Creating a new UserCollection
+2021-03-29 17:44:46,176 users.py:27  INFO New UserCollection instance created
+2021-03-29 17:44:48,137 main.py:64  INFO Loading users from accounts.csv
+2021-03-29 17:45:19,349 main.py:30  INFO Creating a new UserCollection
+2021-03-29 17:45:19,353 users.py:27  INFO New UserCollection instance created
+2021-03-29 17:45:20,789 main.py:64  INFO Loading users from accounts.csv
+2021-03-29 17:45:41,432 main.py:30  INFO Creating a new UserCollection
+2021-03-29 17:45:41,436 users.py:27  INFO New UserCollection instance created
+2021-03-29 17:45:42,673 main.py:64  INFO Loading users from accounts.csv
+2021-03-29 17:46:38,453 main.py:30  INFO Creating a new UserCollection
+2021-03-29 17:46:38,581 users.py:27  INFO New UserCollection instance created
+2021-03-29 17:46:42,862 main.py:64  INFO Loading users from accounts.csv
+2021-03-29 17:46:43,239 main.py:100 INFO Saving collection in database
+2021-03-29 17:46:43,606 main.py:100 INFO Saving collection in database
+2021-03-29 17:46:43,975 main.py:100 INFO Saving collection in database
+2021-03-29 17:46:44,349 main.py:100 INFO Saving collection in database
+2021-03-29 17:46:44,732 main.py:100 INFO Saving collection in database
+2021-03-29 17:46:45,107 main.py:100 INFO Saving collection in database
+2021-03-29 17:46:45,495 main.py:100 INFO Saving collection in database
+2021-03-29 17:46:45,909 main.py:100 INFO Saving collection in database
+2021-03-29 17:46:46,290 main.py:100 INFO Saving collection in database
+2021-03-29 17:46:46,661 main.py:100 INFO Saving collection in database
+2021-03-29 17:55:22,896 main.py:30  INFO Creating a new UserCollection
+2021-03-29 17:55:22,900 users.py:27  INFO New UserCollection instance created
+2021-03-29 17:55:25,873 main.py:64  INFO Loading users from accounts.csv
+2021-03-29 17:55:26,254 main.py:100 INFO Saving collection in database
+2021-03-29 17:55:26,264 main.py:108 INFO Bulk Write attempted to load duplicate users, ignored
+2021-03-29 17:55:26,628 main.py:100 INFO Saving collection in database
+2021-03-29 17:55:26,636 main.py:108 INFO Bulk Write attempted to load duplicate users, ignored
+2021-03-29 17:55:27,005 main.py:100 INFO Saving collection in database
+2021-03-29 17:55:27,013 main.py:108 INFO Bulk Write attempted to load duplicate users, ignored
+2021-03-29 17:55:27,378 main.py:100 INFO Saving collection in database
+2021-03-29 17:55:27,385 main.py:108 INFO Bulk Write attempted to load duplicate users, ignored
+2021-03-29 17:55:27,751 main.py:100 INFO Saving collection in database
+2021-03-29 17:55:27,759 main.py:108 INFO Bulk Write attempted to load duplicate users, ignored
+2021-03-29 17:55:28,133 main.py:100 INFO Saving collection in database
+2021-03-29 17:55:28,140 main.py:108 INFO Bulk Write attempted to load duplicate users, ignored
+2021-03-29 17:55:28,505 main.py:100 INFO Saving collection in database
+2021-03-29 17:55:28,512 main.py:108 INFO Bulk Write attempted to load duplicate users, ignored
+2021-03-29 17:55:28,874 main.py:100 INFO Saving collection in database
+2021-03-29 17:55:28,881 main.py:108 INFO Bulk Write attempted to load duplicate users, ignored
+2021-03-29 17:55:29,246 main.py:100 INFO Saving collection in database
+2021-03-29 17:55:29,254 main.py:108 INFO Bulk Write attempted to load duplicate users, ignored
+2021-03-29 17:55:29,619 main.py:100 INFO Saving collection in database
+2021-03-29 17:55:29,626 main.py:108 INFO Bulk Write attempted to load duplicate users, ignored
+2021-03-29 17:55:57,405 main.py:39  INFO Createing a new UserStatusCollection
+2021-03-29 17:55:57,551 user_status.py:23  INFO New UserStatusCollection instance created
+2021-03-29 17:56:36,554 main.py:134 INFO Saving statuses to status_updates.csv
+2021-03-29 17:56:37,023 main.py:158 INFO Saving collection in database
